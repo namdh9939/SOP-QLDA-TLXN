@@ -135,7 +135,7 @@ Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (
 | Phase | Nội dung | Trạng thái |
 |-------|---------|------------|
 | Phase 1 | Tổng quan, Flow, RACI, Stakeholder | ✅ Hoàn thành |
-| Phase 2 | SOP Phối hợp Sale ↔ QLDA | 🔲 Chưa bắt đầu |
+| Phase 2 | SOP Phối hợp Sale ↔ QLDA | ✅ Hoàn thành |
 | Phase 3 | SOP Account | 🔲 Chưa bắt đầu |
 | Phase 4 | SOP PM | 🔲 Chưa bắt đầu |
 | Phase 5 | SOP AA | 🔲 Chưa bắt đầu |
@@ -152,6 +152,7 @@ Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (
 | Ngày | Phiên bản | Nội dung thay đổi |
 |------|-----------|-------------------|
 | 2026-03-27 | v1.0.0 | Khởi tạo cấu trúc SOP, Phase 1: Tổng quan |
+| 2026-03-27 | v1.1.0 | Phase 2: SOP Phối hợp Sale ↔ QLDA (4 SOP) |
 
 ---
 
