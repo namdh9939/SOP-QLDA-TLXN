@@ -1,4 +1,5 @@
 # 📋 SOP Bộ Phận Quản Lý Dự Án — Trợ Lý Xây Nhà (TLXN)
+
 ### Công ty TNHH TM DV & XD Nhà Của Mình AC
 
 > *"Chúng tôi không chọn lợi ích ngắn hạn. Chúng tôi chọn cấu trúc minh bạch để bảo vệ lợi ích dài hạn của tất cả các bên."*
@@ -9,12 +10,12 @@
 
 Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (SOP)** cho bộ phận Quản lý Dự án, bao gồm 4 vai trò chính:
 
-| Vai trò | Mô tả | Emoji |
-|---------|-------|-------|
-| **PM** (Project Manager) | Quản lý dự án — điều phối tổng thể, lập kế hoạch, "single point of contact" | 🎯 |
-| **Account** (Account Manager) | Đầu mối tiếp nhận yêu cầu KH, chăm sóc thường trực, kết nối đối tác | 🤝 |
-| **AA** (Architect Assistant) | Trợ lý thiết kế — kiểm soát kiến trúc, phối hợp thiết kế | 📐 |
-| **CA** (Construction Assistant) | Trợ lý công trình — giám sát hiện trường, nghiệm thu thi công | 🔨 |
+| Vai trò                              | Mô tả                                                                                  | Emoji |
+| ------------------------------------- | ---------------------------------------------------------------------------------------- | ----- |
+| **PM** (Project Manager)        | Quản lý dự án — điều phối tổng thể, lập kế hoạch, "single point of contact" | 🎯    |
+| **Account** (Account Manager)   | Đầu mối tiếp nhận yêu cầu KH, chăm sóc thường trực, kết nối đối tác     | 🤝    |
+| **AA** (Architect Assistant)    | Trợ lý thiết kế — kiểm soát kiến trúc, phối hợp thiết kế                    | 📐    |
+| **CA** (Construction Assistant) | Trợ lý công trình — giám sát hiện trường, nghiệm thu thi công                | 🔨    |
 
 ---
 
@@ -111,48 +112,48 @@ Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (
 
 ## 📊 Các Gói Dịch Vụ TLXN
 
-| Gói | Tên đầy đủ | Đặc điểm | Phạm vi |
-|-----|-----------|-----------|---------|
-| **QTDA** | Quản Trị Dự Án | PM giám sát 100%, đầy đủ nhất | Nội thành HCM |
-| **TLXN** | Trợ Lý Xây Nhà | Nghiệm thu bán thời gian | TP.HCM (≤20km) |
-| **TLXN TX** | Trợ Lý Xây Nhà Từ Xa | Hỗ trợ qua ảnh/video/online | Ngoại tỉnh |
+| Gói              | Tên đầy đủ           | Đặc điểm                                       | Phạm vi        |
+| ----------------- | ------------------------- | -------------------------------------------------- | --------------- |
+| **QTDA**    | Quản Trị Dự Án        | Đại diện CĐT quản lý toàn bộ công trình  | TP.HCM (≤20km) |
+| **TLXN**    | Trợ Lý Xây Nhà        | Hỗ trợ quản lý và nghiệm thu bán thời gian | TP.HCM (≤20km) |
+| **TLXN TX** | Trợ Lý Xây Nhà Từ Xa | Hỗ trợ qua ảnh/video/online                     | Ngoại tỉnh    |
 
 ---
 
 ## 🔧 Công Cụ Sử Dụng
 
-| Công cụ | Mục đích | Lưu ý |
-|---------|----------|-------|
-| **Larksuite** | Lưu trữ dữ liệu, Ticket, Scorecard, báo cáo | Kênh chính thức |
-| **Zalo** | Giao tiếp nhanh với KH, đối tác, nội bộ | Chỉ trao đổi nhanh, quyết định quan trọng phải xác nhận trên Lark/email |
-| **HBSS** | Hệ thống quản lý công trình | Phần mềm nội bộ NCM |
-| **GitHub** | Lưu trữ SOP (tài liệu này) | Cho AI bot truy xuất & nhân viên tra cứu |
+| Công cụ           | Mục đích                                       | Lưu ý                                                                            |
+| ------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Larksuite** | Lưu trữ dữ liệu, Ticket, Scorecard, báo cáo | Kênh chính thức                                                                 |
+| **Zalo**      | Giao tiếp nhanh với KH, đối tác, nội bộ    | Chỉ trao đổi nhanh, quyết định quan trọng phải xác nhận trên Lark/email |
+| **HBSS**      | Hệ thống quản lý công trình                 | Phần mềm nội bộ NCM                                                            |
+| **GitHub**    | Lưu trữ SOP (tài liệu này)                   | Cho nhân viên tra cứu                                                           |
 
 ---
 
 ## 📅 Tiến Độ Xây Dựng SOP
 
-| Phase | Nội dung | Trạng thái |
-|-------|---------|------------|
-| Phase 1 | Tổng quan, Flow, RACI, Stakeholder | ✅ Hoàn thành |
-| Phase 2 | SOP Phối hợp Sale ↔ QLDA | ✅ Hoàn thành |
-| Phase 3 | SOP Account | 🔲 Chưa bắt đầu |
-| Phase 4 | SOP PM | 🔲 Chưa bắt đầu |
-| Phase 5 | SOP AA | 🔲 Chưa bắt đầu |
-| Phase 6 | SOP CA + Checklist | 🔲 Chưa bắt đầu |
-| Phase 7 | Phối hợp Đối tác | 🔲 Chưa bắt đầu |
-| Phase 8 | Phối hợp Nội bộ | 🔲 Chưa bắt đầu |
-| Phase 9 | Biểu mẫu + Phụ lục | 🔲 Chưa bắt đầu |
-| Phase 10 | Review & Hoàn thiện | 🔲 Chưa bắt đầu |
+| Phase    | Nội dung                           | Trạng thái        |
+| -------- | ----------------------------------- | ------------------- |
+| Phase 1  | Tổng quan, Flow, RACI, Stakeholder | ✅ Hoàn thành     |
+| Phase 2  | SOP Phối hợp Sale ↔ QLDA         | ✅ Hoàn thành     |
+| Phase 3  | SOP Account                         | 🔲 Chưa bắt đầu |
+| Phase 4  | SOP PM                              | 🔲 Chưa bắt đầu |
+| Phase 5  | SOP AA                              | 🔲 Chưa bắt đầu |
+| Phase 6  | SOP CA + Checklist                  | 🔲 Chưa bắt đầu |
+| Phase 7  | Phối hợp Đối tác               | 🔲 Chưa bắt đầu |
+| Phase 8  | Phối hợp Nội bộ                 | 🔲 Chưa bắt đầu |
+| Phase 9  | Biểu mẫu + Phụ lục              | 🔲 Chưa bắt đầu |
+| Phase 10 | Review & Hoàn thiện               | 🔲 Chưa bắt đầu |
 
 ---
 
 ## 📝 Changelog
 
-| Ngày | Phiên bản | Nội dung thay đổi |
-|------|-----------|-------------------|
-| 2026-03-27 | v1.0.0 | Khởi tạo cấu trúc SOP, Phase 1: Tổng quan |
-| 2026-03-27 | v1.1.0 | Phase 2: SOP Phối hợp Sale ↔ QLDA (4 SOP) |
+| Ngày      | Phiên bản | Nội dung thay đổi                           |
+| ---------- | ----------- | ---------------------------------------------- |
+| 2026-03-27 | v1.0.0      | Khởi tạo cấu trúc SOP, Phase 1: Tổng quan |
+| 2026-03-27 | v1.1.0      | Phase 2: SOP Phối hợp Sale ↔ QLDA (4 SOP)   |
 
 ---
 
