@@ -94,11 +94,11 @@ PM: ________ Ngày: ________
 
 ### 4.3 Phân Quyền Phê Duyệt Change Order
 
-| Giá trị phát sinh      | KH phê duyệt | PM phê duyệt | BGĐ phê duyệt |
-| ----------------------- | :----------: | :----------: | :-----------: |
-| ≤ 5 triệu đồng         | ✅           | ✅           | —             |
-| 5 - 20 triệu đồng      | ✅           | **Bắt buộc** | Thông báo     |
-| > 20 triệu đồng        | ✅           | Đề nghị      | **Bắt buộc** |
+| Giá trị phát sinh      | KH phê duyệt | PM phê duyệt | **PO** phê duyệt | PD/BGĐ phê duyệt |
+| ----------------------- | :----------: | :----------: | :----------------: | :--------------: |
+| ≤20 triệu đồng         | ✅           | ✅           | Thông báo         | —               |
+| 20 - 50 triệu đồng    | ✅           | Đề nghị    | **✅ BẮt buộc** | —               |
+| > 50 triệu đồng       | ✅           | Đề nghị    | Đề nghị         | **✅ BẮt buộc** |
 
 > ⚠️ **Lưu ý:** Dù giá trị bao nhiêu, **KH luôn phải ký phê duyệt** trước khi thực hiện.
 

@@ -18,11 +18,13 @@
 
 | Thuật ngữ             | Viết tắt        | Giải thích                                                                 |
 | ----------------------- | ----------------- | ---------------------------------------------------------------------------- |
-| Project Manager         | **PM**      | Quản lý dự án — điều phối tổng thể, "single point of contact"      |
-| Account Manager         | **Account** | Chăm sóc khách hàng — đầu mối tiếp nhận yêu cầu KH               |
-| Architect Assistant     | **AA**      | Trợ lý thiết kế — phụ trách giai đoạn TK & kiểm soát kiến trúc  |
-| Construction Assistant  | **CA**      | Trợ lý công trình — phụ trách giám sát hiện trường & nghiệm thu |
-| Ban Giám Đốc         | **BGĐ**    | Lãnh đạo công ty, phê duyệt cuối cùng                                |
+| Project Manager         | **PM**      | Quản lý dự án — điều phối tổng thể thi công & thiết kế trong Squad       |
+| Account Manager         | **Account** | Chăm sóc khách hàng — đầu mối tiếp nhận yêu cầu KH                         |
+| Architect Assistant     | **AA**      | Trợ lý thiết kế — phụ trách giai đoạn TK & kiểm soát kiến trúc           |
+| Construction Assistant  | **CA**      | Trợ lý công trình — phụ trách giám sát hiện trường & nghiệm thu            |
+| Project Owner           | **PO**      | Đầu Squad — quản lý 1 Sale + 1 Account + 1 PM + 4 AA/CA; chịu doanh số 500M/tháng |
+| Project Director        | **PD**      | Đầu đơn vị — quản lý 4 Squad (4 PO); vi trí cao nhất cấp vận hành      |
+| Ban Giám Đốc         | **BGĐ**    | Lãnh đạo công ty, phê duyệt các quyết định vượt thẩm quyền cấp PD            |
 | Chăm sóc khách hàng | **CSKH**    | Đôi khi dùng thay cho Account                                             |
 
 ## Thuật Ngữ Quy Trình
@@ -83,8 +85,19 @@
 
 ## Cấp Độ Escalation
 
-| Cấp             | Người xử lý                | Khi nào                                      |
-| ---------------- | ------------------------------ | --------------------------------------------- |
-| **Cấp 1** | PM dự án                     | Quá SLA, không thống nhất phương án    |
-| **Cấp 2** | Director/QLC cấp cao          | PM không giải quyết được                |
-| **Cấp 3** | Biên bản + Điều khoản HĐ | Rủi ro nghiêm trọng, tạm dừng/chấm dứt |
+| Cấp             | Người xử lý                   | Khi nào                                              |
+| ---------------- | ----------------------------- | ------------------------------------------------------ |
+| **Cấp 1** | PM dự án                      | Quá SLA, không thống nhất phương án           |
+| **Cấp 2** | Project Owner (PO)            | PM không giải quyết được, tài chính vượt hạn mức |
+| **Cấp 3** | Project Director (PD) / BGĐ  | Rủi ro nghiêm trọng, tạm dừng/chấm dứt dự án  |
+
+---
+
+## Con Đường Thăng Tiến Nội Bộ
+
+| Lộ trình            | Bước 1   | Bước 2   | Bước 3  | Bước 4   |
+| ------------------- | --------- | --------- | -------- | ---------- |
+| **Hướng 1**  | Sale      | Account   | PO       | PD         |
+| **Hướng 2**  | CA hoặc AA | PM       | PO       | PD         |
+
+> ⚠️ **Để lên PO:** Cần tích lũy í nhiều năm kinh nghiệm, chứng minh năng lực vận hành Squad, và trải qua quá trình thử thách nội bộ. PO được trao quyền nhân sự và doanh số nên đây là vị trí đoài hỏi sự cống hiến và tin tưởng.

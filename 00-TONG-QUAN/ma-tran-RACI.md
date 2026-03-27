@@ -21,77 +21,77 @@
 
 ### PHASE 1: CHUYỂN GIAO & KICKOFF
 
-| Hoạt động                   |    Sale    |   Account   |     PM     |     AA     | CA | Kế toán | BGĐ |
-| ------------------------------ | :---------: | :---------: | :---------: | :---------: | :-: | :-------: | :--: |
-| Bàn giao hồ sơ KH           | **R** | **R** | **R** |      I      | — |    —    |  I  |
-| Kiểm tra hồ sơ đầy đủ   |     —     | **S** | **R** |     —     | — |    —    |  —  |
-| Tổ chức họp Kickoff         | **R** | **R** | **R** |      I      | — |    —    |  I  |
-| Lập Khái toán Ngân sách XN  |     —     |      I      | **R** | **S** | — |    —    |  I  |
-| Lập kế hoạch tổng thể     |     —     |      C      | **R** | **S** | C |    —    |  I  |
-| Bổ nhiệm AA/CA               |     —     |      I      | **R** |     —     | — |    —    |  I  |
-| Setup dự án trên hệ thống |     —     |     —     | **A** | **R** | — |    —    |  —  |
+| Hoạt động                   |    Sale    |   Account   |     PM     |     AA     | CA |  **PO**  | BGĐ |
+| ------------------------------ | :---------: | :---------: | :---------: | :---------: | :-: | :------: | :--: |
+| Bàn giao hồ sơ KH           | **R** | **R** | **R** |      I      | — | **A** |  I  |
+| Kiểm tra hồ sơ đầy đủ   |     —     | **S** | **R** |     —     | — |   A   |  —  |
+| Tổ chức họp Kickoff         | **R** | **R** | **R** |      I      | — | **A** |  I  |
+| Lập Khái toán Ngân sách XN  |     —     |      I      | **R** | **S** | — |   A   |  I  |
+| Lập kế hoạch tổng thể     |     —     |      C      | **R** | **S** | C |   A   |  I  |
+| Bổ nhiệm AA/CA               |     —     |      I      | **R** |     —     | — | **A** |  I  |
+| Setup dự án trên hệ thống |     —     |     —     | **A** | **R** | — | I |  —  |
 
-### PHASE 2: THIẾT KẾ
+### PHASE 2: THIẾT KẾT
 
-| Hoạt động                         | Sale |   Account   |     PM     |     AA     | CA | Kế toán | BGĐ |
-| ------------------------------------ | :--: | :---------: | :---------: | :---------: | :-: | :-------: | :--: |
-| Tổng hợp yêu cầu TK              |  —  | **S** |      C      | **R** | — |    —    |  —  |
-| Lựa chọn đơn vị TK              |  —  |      I      | **R** | **S** | — |    —    |  —  |
-| Ký HĐ thiết kế                   |  —  |      I      | **R** | **S** | — |    —    |  —  |
-| Kiểm tra tiến độ thiết kê lập |  —  |      I      |   **S**   | **R** | — |    —    |  —  |
-| Phối hợp thực hiện TK            |  —  |      I      | **A** | **R** | — |    —    |  —  |
-| Góp ý & kiểm tra TK               |  —  |      I      |      C      | **R** | — |    —    |  —  |
-| ĐV TK lập Dự toán chi tiết       |  —  |      I      | **A** | **R** | — |    —    |  —  |
-| Cập nhật Ngân sách theo dự toán   |  —  | **S** | **R** | **S** | — |    —    |  —  |
-| Nghiệm thu thiết kế               |  —  |      I      | **A** | **R** | — |    —    |  —  |
+| Hoạt động                         | Sale |   Account   |     PM     |     AA     | CA | **PO** | BGĐ |
+| ------------------------------------ | :--: | :---------: | :---------: | :---------: | :-: | :----: | :--: |
+| Tổng hợp yêu cầu TK              |  —  | **S** |      C      | **R** | — |  I  |  —  |
+| Lựa chọn đơn vị TK              |  —  |      I      | **R** | **S** | — | **A** |  —  |
+| Ký HĐ thiết kế                   |  —  |      I      | **R** | **S** | — |  A  |  —  |
+| Kiểm tra tiến độ thiết kê lập |  —  |      I      |   **S**   | **R** | — |  I  |  —  |
+| Phối hợp thực hiện TK            |  —  |      I      | **A** | **R** | — |  I  |  —  |
+| Góp ý & kiểm tra TK               |  —  |      I      |      C      | **R** | — |  I  |  —  |
+| ĐV TK lập Dự toán chi tiết       |  —  |      I      | **A** | **R** | — |  I  |  —  |
+| Cập nhật Ngân sách theo dự toán   |  —  | **S** | **R** | **S** | — |  I  |  —  |
+| Nghiệm thu thiết kế               |  —  |      I      | **A** | **R** | — |  A  |  —  |
 
 ### PHASE 3: LỰA CHỌN NHÀ THẦU
 
-| Hoạt động                                   | Sale | Account |     PM     |     AA     |     CA     | Kế toán | BGĐ |
-| ---------------------------------------------- | :--: | :-----: | :---------: | :---------: | :---------: | :-------: | :--: |
-| Phát hành thư mời báo giá                |  —  |   —   | **R** | **S** |     —     |    —    |  —  |
-| Sơ tuyển nhà thầu                          |  —  |    I    | **R** | **S** |      C      |    —    |  —  |
-| Đánh giá & lựa chọn                       |  —  |    I    | **R** | **S** |      C      |    —    |  —  |
-| Đàm phán HĐ thi công                      |  —  |    I    | **R** | **S** |     —     |    —    |  —  |
-| Thống nhất tiêu chuẩn                      |  —  |   —   | **R** |     —     | **S** |    —    |  —  |
-| Kiểm tra tiến độ thi công nhà thầu lập |  —  |    I    | **R** |     —     | **S** |    —    |  —  |
+| Hoạt động                                   | Sale | Account |     PM     |     AA     |     CA     | **PO** | BGĐ |
+| ---------------------------------------------- | :--: | :-----: | :---------: | :---------: | :---------: | :----: | :--: |
+| Phát hành thư mời báo giá                |  —  |   —   | **R** | **S** |     —     |  A  |  —  |
+| Sơ tuyển nhà thầu                          |  —  |    I    | **R** | **S** |      C      |  A  |  —  |
+| Đánh giá & lựa chọn                       |  —  |    I    | **R** | **S** |      C      | **A** |  —  |
+| Đàm phán HĐ thi công                      |  —  |    I    | **R** | **S** |     —     | **A** |  —  |
+| Thống nhất tiêu chuẩn                      |  —  |   —   | **R** |     —     | **S** |  A  |  —  |
+| Kiểm tra tiến độ thi công nhà thầu lập |  —  |    I    | **R** |     —     | **S** |  I  |  —  |
 
 ### PHASE 4: THI CÔNG
 
-| Hoạt động                    | Sale |   Account   |     PM     |     AA     |     CA     |  Kế toán  |    BGĐ    |
-| ------------------------------- | :--: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
-| Giám sát công trường       |  —  |     —     | **A** |     —     | **R** |     —     |     —     |
-| Kiểm tra CL hạng mục         |  —  |     —     | **A** |     —     | **R** |     —     |     —     |
-| Nghiệm thu hạng mục          |  —  |      I      | **A** |     —     | **R** |     —     |     —     |
-| Quản lý tiến độ            |  —  |      I      | **R** | **S** | **S** |     —     |      I      |
-| Quản lý ngân sách           |  —  |   **R**   |   **A**   | **S** |     —     | **C** | **A** |
-| Đề nghị thanh toán NT       |  —  |     —     | **R** | **S** |     —     | **R** | **A** |
-| Quản lý thay đổi/phát sinh |  —  |      I      | **R** | **S** | **S** |      C      | **A** |
-| Họp giao ban công trường    |  —  |     —     | **R** |     —     | **R** |     —     |     —     |
-| Báo cáo tuần                 |  —  |      I      | **A** | **R** | **R** |     —     |      I      |
-| Xử lý Ticket KH               |  —  | **R** |      C      | **S** | **S** |     —     |     —     |
-| Xử lý sự cố công trường  |  —  |      I      | **R** |     —     | **R** |     —     |      I      |
-| Điều phối nhà thầu phụ    |  —  |     —     | **R** |     —     | **S** |     —     |     —     |
+| Hoạt động                    | Sale |   Account   |     PM     |     AA     |     CA     | **PO** |    BGĐ    |
+| ------------------------------- | :--: | :---------: | :---------: | :---------: | :---------: | :----: | :---------: |
+| Giám sát công trường       |  —  |     —     | **A** |     —     | **R** |  I  |     —     |
+| Kiểm tra CL hạng mục         |  —  |     —     | **A** |     —     | **R** |  I  |     —     |
+| Nghiệm thu hạng mục          |  —  |      I      | **A** |     —     | **R** |  I  |     —     |
+| Quản lý tiến độ            |  —  |      I      | **R** | **S** | **S** | **A** |      I      |
+| Quản lý ngân sách           |  —  |   **R**   |   **A**   | **S** |     —     | **A** | I |
+| Đề nghị thanh toán NT       |  —  |     —     | **R** | **S** |     —     | **A** | C |
+| Quản lý thay đổi/phát sinh |  —  |      I      | **R** | **S** | **S** | **A** | **R** (>20M) |
+| Họp giao ban công trường    |  —  |     —     | **R** |     —     | **R** |  I  |     —     |
+| Báo cáo tuần                 |  —  |      I      | **A** | **R** | **R** |  I  |      I      |
+| Xử lý Ticket KH               |  —  | **R** |      C      | **S** | **S** |  A  |     —     |
+| Xử lý sự cố công trường  |  —  |      I      | **R** |     —     | **R** | **A** |      I      |
+| Điều phối nhà thầu phụ    |  —  |     —     | **R** |     —     | **S** |  I  |     —     |
 
 ### PHASE 5: NGHIỆM THU & BÀN GIAO
 
-| Hoạt động                  | Sale |   Account   |     PM     |     AA     |     CA     | Kế toán | BGĐ |
-| ----------------------------- | :--: | :---------: | :---------: | :---------: | :---------: | :-------: | :--: |
-| Nghiệm thu tổng thể        |  —  |      I      | **R** | **S** | **R** |    —    |  —  |
-| Xử lý punch list            |  —  |     —     | **A** |     —     | **R** |    —    |  —  |
-| Bàn giao công trình        |  —  | **R** | **R** | **S** | **S** |    —    |  I  |
-| Bàn giao hồ sơ hoàn công |  —  |     —     | **A** | **R** |     —     |    —    |  —  |
+| Hoạt động                  | Sale |   Account   |     PM     |     AA     |     CA     | **PO** | BGĐ |
+| ----------------------------- | :--: | :---------: | :---------: | :---------: | :---------: | :----: | :--: |
+| Nghiệm thu tổng thể        |  —  |      I      | **R** | **S** | **R** |  A  |  —  |
+| Xử lý punch list            |  —  |     —     | **A** |     —     | **R** |  I  |  —  |
+| Bàn giao công trình        |  —  | **R** | **R** | **S** | **S** |  A  |  I  |
+| Bàn giao hồ sơ hoàn công |  —  |     —     | **A** | **R** |     —     |  I  |  —  |
 
 ### PHASE 6: BẢO HÀNH & ĐÓNG DỰ ÁN
 
-| Hoạt động           | Sale |   Account   |     PM     |     AA     |     CA     |  Kế toán  |    BGĐ    |
-| ---------------------- | :--: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
-| Theo dõi bảo hành   |  —  | **R** |      C      |     —     | **S** |     —     |     —     |
-| Đánh giá nhà thầu |  —  |     —     | **R** |     —     | **S** |     —     |      I      |
-| Thu thập feedback KH  |  —  | **R** |      I      |     —     |     —     |     —     |      I      |
-| Lesson Learned         |  —  | **S** | **R** | **S** | **S** |     —     |      I      |
-| Lưu trữ hồ sơ      |  —  |     —     | **A** | **R** |     —     |     —     |     —     |
-| Đóng dự án         |  —  | **R** | **R** | **S** | **S** | **R** | **A** |
+| Hoạt động           | Sale |   Account   |     PM     |     AA     |     CA     | **PO** |    BGĐ    |
+| ---------------------- | :--: | :---------: | :---------: | :---------: | :---------: | :----: | :---------: |
+| Theo dõi bảo hành   |  —  | **R** |      C      |     —     | **S** |  A  |     —     |
+| Đánh giá nhà thầu |  —  |     —     | **R** |     —     | **S** |  A  |      I      |
+| Thu thập feedback KH  |  —  | **R** |      I      |     —     |     —     |  A  |      I      |
+| Lesson Learned         |  —  | **S** | **R** | **S** | **S** | **A** |      I      |
+| Lưu trữ hồ sơ      |  —  |     —     | **A** | **R** |     —     |  I  |     —     |
+| Đóng dự án         |  —  | **R** | **R** | **S** | **S** | **A** | I |
 
 ---
 
@@ -101,26 +101,40 @@
 
 - **Trách nhiệm chính:** Điều phối tổng thể, lập kế hoạch, quản lý tiến độ/ngân sách/CL/rủi ro
 - **Accountable cho:** Chất lượng dịch vụ, tiến độ dự án, ngân sách
-- **Quyền hạn:** Bổ nhiệm AA/CA, phê duyệt thanh toán (đề nghị), escalation lên BGĐ
-- **Báo cáo cho:** BGĐ
+- **Quyền hạn:** Bổ nhiệm AA/CA, phê duyệt Change Order ≤20M, dừng thi công khi cần
+- **Báo cáo cho:** **PO (Project Owner)**
 
 ### Account — Quản Lý Quan Hệ KH 🤝
 
-- **Trách nhiệm chính:** Đầu mối KH, tiếp nhận yêu cầu, báo cáo cho KH, chăm sóc thường trực
+- **Trách nhiệm chính:** Đầu mối KH, tiếp nhận yêu cầu, chăm sóc thường trực
 - **Accountable cho:** Trải nghiệm & sự hài lòng của KH
-- **Quyền hạn:** Tiếp nhận Ticket, giao tiếp trực tiếp KH, upsell
-- **Báo cáo cho:** PM + BGĐ
+- **Quyền hạn:** Tiếp nhận Ticket, giao tiếp trực tiếp KH
+- **Báo cáo cho:** **PO**
 
 ### AA — Trợ Lý Thiết Kế 📐
 
 - **Trách nhiệm chính:** Phối hợp TK, kiểm tra bản vẽ, quản lý hồ sơ, nhập liệu thu chi
 - **Accountable cho:** Chất lượng kiểm tra thiết kế, tính đầy đủ hồ sơ
 - **Quyền hạn:** Góp ý thiết kế, yêu cầu chỉnh sửa
-- **Báo cáo cho:** PM
+- **Báo cáo cho:** **PM**
 
 ### CA — Trợ Lý Công Trình 🔨
 
 - **Trách nhiệm chính:** Giám sát hiện trường, kiểm tra CL thi công, nghiệm thu hạng mục
 - **Accountable cho:** Chất lượng kiểm tra/nghiệm thu tại công trường
 - **Quyền hạn:** Yêu cầu NT dừng/sửa, báo cáo sai phạm
-- **Báo cáo cho:** PM
+- **Báo cáo cho:** **PM**
+
+### PO — Project Owner 🏠
+
+- **Trách nhiệm chính:** Quản lý Squad (1 Sale + 1 Account + 1 PM + 4 AA/CA), chịu doanh số Squad
+- **Accountable cho:** Hiệu quả vận hành & doanh số Squad (~500M/tháng, ~25 công trình)
+- **Quyền hạn:** Phê duyệt nhân sự Squad, Change Order, Escalation cấp 2; kiểm soát cấp PM
+- **Báo cáo cho:** **PD (Project Director)**
+
+### PD — Project Director 🏆
+
+- **Trách nhiệm chính:** Quản lý 4 Squad (4 PO); điều phối chiến lược đơn vị
+- **Accountable cho:** Tổng doanh số và chất lượng dịch vụ cả 4 Squad
+- **Quyền hạn:** Xự lý Escalation cấp 3, quyết định chấm dứt dự án, quản lý luơng thưởng PO
+- **Báo cáo cho:** **BGĐ**

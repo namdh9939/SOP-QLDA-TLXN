@@ -49,6 +49,7 @@ mindmap
 - Chủ động cập nhật tiến độ, không đợi KH hỏi
 - Duy trì liên lạc thường xuyên: tối thiểu 1 lần/tuần (Phase 2-4) + cập nhật khi có sự kiện quan trọng
 - Quản lý kỳ vọng KH, đảm bảo KH hiểu rõ phạm vi dịch vụ
+- Báo cáo trực tiếp cho **PO (Project Owner)**
 
 > 👉 Chi tiết: [cham-soc-khach-hang.md](./cham-soc-khach-hang.md)
 

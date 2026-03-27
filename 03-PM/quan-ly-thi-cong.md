@@ -96,8 +96,8 @@ flowchart LR
 | ------------ | -------------------------------------------------------------------- |
 | < 3 ngày    | CA nhắc nhở NT; theo dõi ngày hôm sau                              |
 | 3-7 ngày    | PM họp trực tiếp với NT, yêu cầu kế hoạch bù tiến độ              |
-| 7-14 ngày   | PM thông báo chính thức cho KH + Account; báo BGĐ                  |
-| > 14 ngày   | PM đề xuất penalty theo HĐ; xem xét phương án NT bổ sung            |
+| 7-14 ngày   | PM thông báo chính thức cho **PO** + Account; Account báo KH      |
+| > 14 ngày   | PM đề xuất penalty theo HĐ; PO quyết định tiếp theo (PD nếu cần)|
 
 ---
 
@@ -134,9 +134,9 @@ flowchart LR
 flowchart TD
     A["Phát hiện sự cố P1"] --> B["CA: Dừng thi công<br/>ngay lập tức"]
     B --> C["CA báo PM trong 15 phút"]
-    C --> D["PM báo BGĐ + Account<br/>trong 30 phút"]
+    C --> D["PM báo **PO** + Account<br/>trong 30 phút"]
     D --> E["PM ra hiện trường<br/>đánh giá (TLXN TX: CA video call)"]
-    E --> F["PM + BGĐ quyết định<br/>phương án xử lý"]
+    E --> F["PM + **PO** quyết định<br/>phương án xử lý (PD nếu nghiêm trọng)"]
     F --> G["Account thông báo KH<br/>(sau khi có phương án)"]
     G --> H["Lập biên bản sự cố<br/>& phương án khắc phục"]
 ```
