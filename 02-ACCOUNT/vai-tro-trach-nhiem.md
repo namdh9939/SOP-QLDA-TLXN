@@ -27,9 +27,8 @@ mindmap
       Milestone communication
     2. Kiểm soát Chi phí
       Theo dõi ngân sách
-      Đối soát thu chi
       Cảnh báo vượt ngân sách
-      Phối hợp Kế toán
+      Đối soát phí dịch vụ
     3. Tư vấn VL & TB
       Đề xuất phương án
       So sánh giá & CL
@@ -48,7 +47,7 @@ mindmap
 
 - Là **người KH liên hệ đầu tiên** khi có bất kỳ vấn đề nào
 - Chủ động cập nhật tiến độ, không đợi KH hỏi
-- Duy trì liên lạc thường xuyên: hàng ngày (Phase 4), hàng tuần (Phase 2-3)
+- Duy trì liên lạc thường xuyên: tối thiểu 1 lần/tuần (Phase 2-4) + cập nhật khi có sự kiện quan trọng
 - Quản lý kỳ vọng KH, đảm bảo KH hiểu rõ phạm vi dịch vụ
 
 > 👉 Chi tiết: [cham-soc-khach-hang.md](./cham-soc-khach-hang.md)
@@ -56,7 +55,7 @@ mindmap
 ### 2.2 Kiểm soát Ngân sách & Chi phí
 
 - **Responsible (R)** cho theo dõi ngân sách tổng thể dự án
-- Đối soát thu chi hàng tháng cùng Kế toán
+- Đối soát thu phí dịch vụ trợ lý hàng tháng với Kế toán công ty
 - Cảnh báo khi chi phí tiến gần hoặc vượt ngân sách KH
 - Cung cấp dữ liệu chi phí rõ ràng để CA/AA đưa vào báo cáo KH
 

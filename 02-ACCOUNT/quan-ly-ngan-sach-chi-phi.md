@@ -22,7 +22,7 @@ Account phối hợp PM trong việc **theo dõi, kiểm soát và cập nhật*
 | **Account** | Theo dõi chi phí, cung cấp DL cho CA/AA báo cáo, cảnh báo vượt ngân sách | **R** |
 | **PM**      | Phê duyệt chi phí, quyết định kỹ thuật ảnh hưởng ngân sách   | **A** |
 | **AA**      | Hỗ trợ nhập liệu, chuẩn bị dữ liệu thu chi                  | **S** |
-| **Kế toán** | Xác nhận thanh toán, đối soát thu phí                          | **C** |
+| **Kế toán** | Xác nhận thanh toán phí dịch vụ công ty trợ lý                 | **C** |
 | **BGĐ**     | Phê duyệt khi vượt ngân sách hoặc phát sinh lớn               | **A** |
 
 ---
@@ -98,7 +98,7 @@ Khi ĐV Thiết kế hoàn thành hồ sơ TK, họ sẽ lập **Dự toán chi 
 | Bước | Hành động                                               | Ai              | Deadline       |
 | ---- | --------------------------------------------------------- | --------------- | -------------- |
 | 1    | Thu thập dữ liệu chi phí phát sinh trong tháng            | AA              | Ngày 1-3       |
-| 2    | Đối soát với Kế toán (thanh toán NT, NCC)                  | Account + KT    | Ngày 3-4       |
+| 2    | Cập nhật biên lai/xác nhận thanh toán từ NT, NCC            | Account + AA    | Ngày 3-4       |
 | 3    | Cập nhật bảng theo dõi ngân sách                           | Account         | Ngày 4         |
 | 4    | So sánh Thực tế vs. Kế hoạch, tính % sử dụng             | Account         | Ngày 4         |
 | 5    | Gửi dữ liệu chi phí cho CA/AA để lập báo cáo tháng        | Account         | Ngày 4         |
@@ -181,7 +181,7 @@ flowchart LR
 - Account theo dõi và đối soát hàng tháng:
   - Nếu Scorecard < ngưỡng → Quỹ CL bị trừ (theo HĐ)
   - Nếu Scorecard ≥ ngưỡng → Quỹ CL được giữ nguyên
-- Phối hợp Kế toán để đối soát số liệu
+- Phối hợp Kế toán công ty để đối soát thu phí dịch vụ/Quỹ CL
 
 ---
 
