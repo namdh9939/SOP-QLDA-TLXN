@@ -51,12 +51,12 @@ flowchart LR
 
 ### Bước 1: Welcome Pack (Ngay sau Kickoff)
 
-| Hạng mục                               | Nội dung                                            | Kênh           |
-| ---------------------------------------- | ---------------------------------------------------- | --------------- |
-| Tin nhắn chào mừng trong nhóm Zalo   | (Nhóm Zalo đã được Sale tạo trước Kickoff)<br/>Account gửi lời chào, giới thiệu SĐT và vai trò | Zalo            |
-| Gửi tài liệu hướng dẫn             | Cách tạo Ticket, lịch báo cáo, kênh liên lạc | Larksuite/Email |
-| Hướng dẫn cài đặt & sử dụng HBSS | Tài khoản KH trên HBSS                            | Zalo + HBSS     |
-| Xác nhận lại thông tin liên lạc    | SĐT, email, kênh ưa thích của KH                | Zalo            |
+| Hạng mục                               | Nội dung                                                                                                           | Kênh           |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------- |
+| Tin nhắn chào mừng trong nhóm Zalo   | (Nhóm Zalo đã được Sale tạo trước Kickoff)``Account gửi lời chào, giới thiệu SĐT và vai trò | Zalo            |
+| Gửi tài liệu hướng dẫn             | Cách tạo Ticket, lịch báo cáo, kênh liên lạc                                                                | Larksuite/Email |
+| Hướng dẫn cài đặt & sử dụng HBSS | Tài khoản KH trên HBSS                                                                                           | Zalo + HBSS     |
+| Xác nhận lại thông tin liên lạc    | SĐT, email, kênh ưa thích của KH                                                                               | Zalo            |
 
 ### Bước 2: Thiết lập Kỳ vọng (Trong tuần đầu)
 
@@ -75,13 +75,13 @@ flowchart LR
 
 ## 4. Tần Suất & Hình Thức Liên Lạc Theo Phase
 
-| Phase                          | Tần suất liên lạc            | Hình thức             | Nội dung chính                                                  |
-| ------------------------------ | -------------------------------- | ----------------------- | ----------------------------------------------------------------- |
-| **Phase 2: Thiết kế**  | 1-2 lần/tuần                   | Zalo/Điện thoại      | Tiến độ TK, yêu cầu KH duyệt                                |
-| **Phase 3: Chọn NT**    | 1-2 lần/tuần                   | Zalo/Họp               | Báo giá NT, hỗ trợ đánh giá                                |
+| Phase                          | Tần suất liên lạc                | Hình thức             | Nội dung chính                                                         |
+| ------------------------------ | ------------------------------------ | ----------------------- | ------------------------------------------------------------------------ |
+| **Phase 2: Thiết kế**  | Tối thiểu 1 lần/tuần             | Zalo/Điện thoại      | Tiến độ TK, yêu cầu KH duyệt                                       |
+| **Phase 3: Chọn NT**    | Tối thiểu 1 lần/tuần             | Zalo/Họp               | Báo giá NT, hỗ trợ đánh giá                                       |
 | **Phase 4: Thi công**   | Tối thiểu 1 lần/tuần + sự kiện | Zalo + Điện thoại    | Cập nhật sự kiện thi công quan trọng, vấn đề phát sinh, Ticket |
-| **Phase 5: Nghiệm thu** | Hàng ngày                      | Zalo/Gọi điện + Họp | Lịch nghiệm thu, punch list, bàn giao                          |
-| **Phase 6: Bảo hành**  | 1 lần/6 tháng                 | Zalo/Điện thoại      | Tình trạng bảo hành, Scorecard, feedback                      |
+| **Phase 5: Nghiệm thu** | Hàng ngày                          | Zalo/Gọi điện + Họp | Lịch nghiệm thu, punch list, bàn giao                                 |
+| **Phase 6: Bảo hành**  | 1 lần/6 tháng                     | Zalo/Điện thoại      | Tình trạng bảo hành, Scorecard, feedback                             |
 
 > 📡 **TLXN TX:** Tăng tần suất gọi video/online vì không gặp trực tiếp. Họp online 1 lần/tuần theo HĐ.
 
