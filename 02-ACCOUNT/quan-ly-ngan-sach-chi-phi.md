@@ -19,7 +19,7 @@ Account phối hợp PM trong việc **theo dõi, kiểm soát và cập nhật*
 
 | Vai trò     | Trách nhiệm                                                   | RACI |
 | ----------- | -------------------------------------------------------------- | :--: |
-| **Account** | Theo dõi chi phí, báo cáo cho KH, cảnh báo vượt ngân sách    | **R** |
+| **Account** | Theo dõi chi phí, cung cấp DL cho CA/AA báo cáo, cảnh báo vượt ngân sách | **R** |
 | **PM**      | Phê duyệt chi phí, quyết định kỹ thuật ảnh hưởng ngân sách   | **A** |
 | **AA**      | Hỗ trợ nhập liệu, chuẩn bị dữ liệu thu chi                  | **S** |
 | **Kế toán** | Xác nhận thanh toán, đối soát thu phí                          | **C** |
@@ -34,7 +34,7 @@ flowchart TD
     A["Kickoff: Xác nhận<br/>Tổng mức đầu tư KH"] --> B["Thiết lập bảng<br/>theo dõi ngân sách"]
     B --> C["Hàng tháng:<br/>Cập nhật chi phí thực tế"]
     C --> D{"Chi phí đạt<br/>ngưỡng cảnh báo?"}
-    D -->|Chưa| E["Gửi báo cáo<br/>chi phí cho KH"]
+    D -->|Chưa| E["Gửi dữ liệu<br/>cho CA/AA báo cáo KH"]
     D -->|80%| F["Cảnh báo Mức 1<br/>Thông báo PM + KH"]
     D -->|90%| G["Cảnh báo Mức 2<br/>Họp PM + KH điều chỉnh"]
     D -->|≥100%| H["Cảnh báo Mức 3<br/>Escalation BGĐ + KH"]
@@ -91,7 +91,7 @@ Khi ĐV Thiết kế hoàn thành hồ sơ TK, họ sẽ lập **Dự toán chi 
 | 1    | Xác nhận Tổng mức đầu tư KH mong muốn từ hồ sơ Sale     | Account + PM    |
 | 2    | Phân bổ ngân sách dự kiến theo hạng mục                   | PM              |
 | 3    | Tạo bảng theo dõi ngân sách trên Larksuite/Excel          | Account + AA    |
-| 4    | Thống nhất với KH về cách theo dõi & tần suất báo cáo     | Account         |
+| 4    | Thống nhất với KH về cách theo dõi chi phí                | Account         |
 
 ### 4.4 Theo Dõi Chi Phí Hàng Tháng (Phase 2-4)
 
@@ -101,13 +101,13 @@ Khi ĐV Thiết kế hoàn thành hồ sơ TK, họ sẽ lập **Dự toán chi 
 | 2    | Đối soát với Kế toán (thanh toán NT, NCC)                  | Account + KT    | Ngày 3-4       |
 | 3    | Cập nhật bảng theo dõi ngân sách                           | Account         | Ngày 4         |
 | 4    | So sánh Thực tế vs. Kế hoạch, tính % sử dụng             | Account         | Ngày 4         |
-| 5    | Gửi báo cáo chi phí cho KH kèm báo cáo tháng              | Account         | Trước ngày 5   |
+| 5    | Gửi dữ liệu chi phí cho CA/AA để lập báo cáo tháng        | Account         | Ngày 4         |
 
 ### 4.5 Hệ Thống Cảnh Báo Ngân Sách
 
 | Mức        | Ngưỡng | Hành động                                            | Ai quyết định |
 | ---------- | ------ | ----------------------------------------------------- | ------------- |
-| 🟢 Bình thường | < 80%  | Báo cáo thường kỳ                                    | Account       |
+| 🟢 Bình thường | < 80%  | Cung cấp dữ liệu để CA/AA lập báo cáo                | Account       |
 | 🟡 Mức 1   | 80%    | Thông báo PM + KH, rà soát hạng mục còn lại          | Account + PM  |
 | 🟠 Mức 2   | 90%    | Họp PM + KH, đề xuất điều chỉnh/cắt giảm             | PM + KH       |
 | 🔴 Mức 3   | ≥ 100% | Escalation BGĐ, họp khẩn với KH, tạm dừng phát sinh  | BGĐ + KH     |

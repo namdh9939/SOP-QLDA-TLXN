@@ -104,7 +104,7 @@ Tại các mốc quan trọng, Account phải **chủ động liên hệ KH** đ
 | KH duyệt thiết kế                | Chúc mừng, thông báo bước tiếp theo                  |
 | Ký HĐ Thi công                   | Thông báo lịch khởi công, giới thiệu nhà thầu       |
 | Khởi công                        | Gửi ảnh/video khởi công, thông báo timeline           |
-| Đổ bê tông sàn (mỗi tầng)       | Gửi ảnh/video + báo cáo tiến độ                     |
+| Đổ bê tông sàn (mỗi tầng)       | Gửi ảnh/video + cập nhật nhanh tiến độ                     |
 | Cất nóc                          | Chúc mừng KH, tổng hợp tiến độ Phase cấu trúc       |
 | Hoàn thiện & Bàn giao            | Lên lịch nghiệm thu + Chúc mừng hoàn thành           |
 
@@ -164,8 +164,8 @@ Ngoài Scorecard cuối tháng, Account thực hiện **check-in giữa tháng**
 | ------------------------------------------ | ----------------------------- |
 | "Anh/chị có hài lòng với tuần vừa qua?"   | Đánh giá sự hài lòng sớm      |
 | "Có vấn đề gì anh/chị muốn chia sẻ?"     | Phát hiện vấn đề ẩn           |
-| "Báo cáo tuần có đủ thông tin không?"      | Cải thiện chất lượng báo cáo   |
-| "Cần hỗ trợ gì thêm?"                     | Chăm sóc chủ động             |
+| "Anh/chị cần team hỗ trợ thêm gì không?" | Khám phá nhu cầu ẩn           |
+| "Tần suất liên lạc hiện tại đã ổn chưa?" | Điều chỉnh nhịp độ chăm sóc   |
 
 > 📌 Ghi nhận feedback vào log trên Larksuite để theo dõi xu hướng hài lòng.
 

@@ -58,7 +58,7 @@ mindmap
 - **Responsible (R)** cho theo dõi ngân sách tổng thể dự án
 - Đối soát thu chi hàng tháng cùng Kế toán
 - Cảnh báo khi chi phí tiến gần hoặc vượt ngân sách KH
-- Báo cáo chi phí minh bạch, dễ hiểu cho KH
+- Cung cấp dữ liệu chi phí rõ ràng để CA/AA đưa vào báo cáo KH
 
 > 👉 Chi tiết: [quan-ly-ngan-sach-chi-phi.md](./quan-ly-ngan-sach-chi-phi.md)
 
@@ -92,7 +92,7 @@ mindmap
 | Lĩnh vực              | Account                                   | PM                                     |
 | ---------------------- | ----------------------------------------- | -------------------------------------- |
 | **Giao tiếp KH**      | Đầu mối chính cho quan hệ & cảm xúc KH  | Trao đổi kỹ thuật & vận hành          |
-| **Ngân sách**          | Theo dõi & báo cáo cho KH (**R**)        | Phê duyệt & kiểm soát tổng (**A**)    |
+| **Ngân sách**          | Theo dõi & cung cấp dữ liệu (**R**)        | Phê duyệt & kiểm soát tổng (**A**)    |
 | **Quyết định kỹ thuật** | Không quyết định                         | Quyết định & chịu trách nhiệm         |
 | **Ticket**             | Tiếp nhận & phân loại (**R**)            | Xử lý kỹ thuật (**C**)                |
 | **Báo cáo tuần**      | Phối hợp cung cấp thông tin (**I**)        | CA/AA lập, PM duyệt (**A**)             |
@@ -124,7 +124,7 @@ mindmap
 | ------------------------------ | ------------------ | ------------ | -------------------- |
 | Scorecard trung bình           | ≥ 4.0 / 5.0       | Hàng tháng   | Scorecard từ KH      |
 | SLA tiếp nhận Ticket           | ≤ 4h làm việc     | Realtime     | Larksuite             |
-| Tỷ lệ báo cáo đúng hạn       | ≥ 95%              | Hàng tháng   | Tracking nội bộ      |
+| Tỷ lệ cung cấp DL báo cáo đúng hạn | ≥ 95%              | Hàng tháng   | Tracking nội bộ      |
 | Tần suất liên lạc KH          | Theo chuẩn/Phase   | Hàng tuần    | Log Zalo/Larksuite   |
 | Chi phí thực tế vs. Kế hoạch  | Sai lệch ≤ 10%    | Hàng tháng   | Báo cáo chi phí     |
 | Tỷ lệ KH giới thiệu (NPS)    | ≥ 50%              | Sau bàn giao | Survey               |

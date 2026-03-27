@@ -33,7 +33,7 @@ Hệ thống hóa quy trình thu thập, phân tích và xử lý **Scorecard đ
 | 1 | Thái độ phục vụ                   | Sự chuyên nghiệp, nhiệt tình, lịch sự của team QLDA | 20%      |
 | 2 | Chất lượng báo cáo                | Đầy đủ, rõ ràng, đúng hạn                            | 15%      |
 | 3 | Phản hồi & SLA Ticket             | Tiếp nhận nhanh, xử lý đúng thời hạn                | 15%      |
-| 4 | Kiểm soát chi phí                 | Minh bạch, báo cáo kịp thời, cảnh báo đúng           | 15%      |
+| 4 | Kiểm soát chi phí                 | Minh bạch, cập nhật kịp thời, cảnh báo đúng           | 15%      |
 | 5 | Chất lượng giám sát thi công      | Phát hiện lỗi, yêu cầu sửa chữa kịp thời            | 15%      |
 | 6 | Tư vấn vật liệu/thiết bị         | Đa phương án, minh bạch giá, phù hợp nhu cầu          | 10%      |
 | 7 | Hỗ trợ lựa chọn NTP/NCC          | Kết nối nhanh, đánh giá chuyên nghiệp                 | 10%      |
@@ -51,7 +51,7 @@ flowchart TD
     E -->|Có| F["Lưu trữ &<br/>Ghi nhận tốt"]
     E -->|3.0 - 3.9| G["Lập kế hoạch<br/>cải thiện"]
     E -->|< 3.0| H["Escalation PM + BGĐ<br/>Hành động khẩn cấp"]
-    F --> I["Đưa vào báo cáo tháng"]
+    F --> I["Chuyển DL cho CA/AA<br/>lập BC tháng"]
     G --> I
     H --> I
 ```
@@ -110,7 +110,7 @@ flowchart TD
 | 2    | Tính toán ảnh hưởng đến Quỹ CL (nếu có)             | Account        |
 | 3    | Gửi Kế toán đối soát                                | Account → KT   |
 | 4    | Kế toán xác nhận & xử lý tài chính                  | Kế toán        |
-| 5    | Cập nhật vào báo cáo tháng cho KH                   | Account        |
+| 5    | Cung cấp DL cho CA/AA lập báo cáo tháng             | Account        |
 
 ---
 
