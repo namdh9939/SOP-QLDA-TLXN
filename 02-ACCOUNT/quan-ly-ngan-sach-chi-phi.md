@@ -9,7 +9,9 @@
 
 ## 1. Mục Đích
 
-Account chịu trách nhiệm chính (**R** theo RACI) trong việc **theo dõi, kiểm soát và báo cáo** ngân sách dự án cho KH, đảm bảo KH luôn nắm rõ tình hình tài chính và không bị bất ngờ về chi phí.
+Account phối hợp PM trong việc **theo dõi, kiểm soát và cập nhật** ngân sách dự án cho KH, đảm bảo KH luôn nắm rõ tình hình tài chính và không bị bất ngờ về chi phí.
+
+> ⚠️ **Lưu ý:** PM chịu trách nhiệm lập **Khái toán Ngân sách Xây Nhà** ngay sau Kickoff. Sau đó, trong giai đoạn thiết kế, **Đơn vị Thiết Kế sẽ lập Dự toán chi tiết** theo hồ sơ thiết kế — đây là cơ sở để Account + PM cập nhật lại bảng ngân sách.
 
 ---
 
@@ -47,7 +49,42 @@ flowchart TD
 
 ## 4. Quy Trình Chi Tiết
 
-### 4.1 Thiết Lập Ngân Sách Ban Đầu (Phase 1)
+### 4.1 Bước 0: PM Lập Khái Toán Ngân Sách Xây Nhà (Phase 1 — Sau Kickoff)
+
+Ngay sau Kickoff, PM lập **Bảng Khái Toán Ngân Sách** cho KH biết mình cần chuẩn bị bao nhiêu tiền.
+
+| Bước | Hành động                                               | Ai              |
+| ---- | --------------------------------------------------------- | --------------- |
+| 1    | PM dựa vào requirement + kinh nghiệm để lập khái toán     | PM              |
+| 2    | Khái toán chia 3 phần: A. Trước khi khởi công, B. Trong khi xây nhà, C. Sau khi xây nhà | PM |
+| 3    | Trình bày khái toán cho KH để KH biết tổng mức đầu tư dự kiến | PM + Account   |
+| 4    | KH xác nhận ngân sách ban đầu                              | KH              |
+| 5    | Tạo bảng theo dõi ngân sách trên Larksuite/Excel          | Account + AA    |
+
+> **Cấu trúc bảng Khái Toán Ngân Sách Xây Nhà:**
+>
+> | Phần | Ví dụ các hạng mục |
+> |------|-------------------|
+> | **A. Trước khi khởi công** | Trợ Lý Xây Nhà, Thiết kế, Dự toán, Khảo sát địa chất, Giấy phép XD, Bảo hiểm CT, ... |
+> | **B. Trong khi xây nhà** | Xây thô, Hoàn thiện GĐ1, Nội thất, Thang máy, Thiết bị điện tử, Công nghệ thông minh, ... |
+> | **C. Sau khi xây nhà** | Hoàn công, Hoạt động tâm linh, ... |
+
+### 4.2 Bước 1: Cập Nhật Ngân Sách Theo Dự Toán Thiết Kế (Phase 2)
+
+Khi ĐV Thiết kế hoàn thành hồ sơ TK, họ sẽ lập **Dự toán chi tiết** cho toàn bộ ngôi nhà. Đây là cơ sở để cập nhật bảng ngân sách đã lập ở Phase 1.
+
+| Bước | Hành động                                               | Ai              |
+| ---- | --------------------------------------------------------- | --------------- |
+| 1    | ĐV Thiết kế lập dự toán chi tiết theo hồ sơ TK          | ĐV Thiết kế   |
+| 2    | PM + AA kiểm tra dự toán (hợp lý, đầy đủ)                | PM + AA         |
+| 3    | PM + Account so sánh dự toán TK với khái toán ban đầu      | PM + Account    |
+| 4    | Cập nhật bảng ngân sách: Thay số ước tính bằng số dự toán thực tế | Account       |
+| 5    | Trình bày ngân sách cập nhật cho KH để duyệt              | PM + Account    |
+| 6    | KH xác nhận ngân sách cập nhật                             | KH              |
+
+> ⚠️ **Quan trọng:** Nếu dự toán TK vượt khái toán ban đầu, PM + Account phải báo KH ngay và thảo luận giải pháp (điều chỉnh TK, gia tăng ngân sách, hoặc cắt giảm hạng mục).
+
+### 4.3 Thiết Lập Ngân Sách Ban Đầu (Phase 1)
 
 | Bước | Hành động                                               | Ai              |
 | ---- | --------------------------------------------------------- | --------------- |
@@ -56,7 +93,7 @@ flowchart TD
 | 3    | Tạo bảng theo dõi ngân sách trên Larksuite/Excel          | Account + AA    |
 | 4    | Thống nhất với KH về cách theo dõi & tần suất báo cáo     | Account         |
 
-### 4.2 Theo Dõi Chi Phí Hàng Tháng (Phase 2-4)
+### 4.4 Theo Dõi Chi Phí Hàng Tháng (Phase 2-4)
 
 | Bước | Hành động                                               | Ai              | Deadline       |
 | ---- | --------------------------------------------------------- | --------------- | -------------- |
@@ -66,7 +103,7 @@ flowchart TD
 | 4    | So sánh Thực tế vs. Kế hoạch, tính % sử dụng             | Account         | Ngày 4         |
 | 5    | Gửi báo cáo chi phí cho KH kèm báo cáo tháng              | Account         | Trước ngày 5   |
 
-### 4.3 Hệ Thống Cảnh Báo Ngân Sách
+### 4.5 Hệ Thống Cảnh Báo Ngân Sách
 
 | Mức        | Ngưỡng | Hành động                                            | Ai quyết định |
 | ---------- | ------ | ----------------------------------------------------- | ------------- |
@@ -75,7 +112,7 @@ flowchart TD
 | 🟠 Mức 2   | 90%    | Họp PM + KH, đề xuất điều chỉnh/cắt giảm             | PM + KH       |
 | 🔴 Mức 3   | ≥ 100% | Escalation BGĐ, họp khẩn với KH, tạm dừng phát sinh  | BGĐ + KH     |
 
-### 4.4 Xử Lý Phát Sinh Chi Phí
+### 4.6 Xử Lý Phát Sinh Chi Phí
 
 ```mermaid
 flowchart LR

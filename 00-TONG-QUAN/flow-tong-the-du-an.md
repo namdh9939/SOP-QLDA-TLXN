@@ -100,9 +100,10 @@ flowchart TD
 | 1.2    | PM & Account kiểm tra hồ sơ                  | PM + Account             | 1 ngày             | Xác nhận đủ / yêu cầu bổ sung              |
 | 1.3    | Tổ chức họp Kickoff                          | Sale + PM + Account + KH | Trong 3 ngày       | Biên bản Kickoff                                |
 | 1.4    | Phỏng vấn làm rõ nhu cầu thực sự của KH | Account + Sale           | Tại buổi Kickoff  | Detail requirement dựa trên form KH đã điền |
-| 1.5    | PM lên kế hoạch tổng thể dự án           | PM                       | 3 ngày sau Kickoff | Kế hoạch dự án                                |
-| 1.6    | PM bổ nhiệm AA & CA phù hợp                 | PM                       | Ngay sau Kickoff    | Thông báo phân công                           |
-| 1.7    | Setup dự án trên hệ thống                  | AA                       | 1 ngày             | Folder Larksuite, nhóm Zalo, HBSS                |
+| 1.5    | PM lập Khái toán Ngân sách Xây nhà           | PM                       | 5-7 ngày sau Kickoff | Bảng ngân sách đầu tư tổng thể (3 phần: Trước khởi công, Trong khi xây nhà, Sau xây nhà) |
+| 1.6    | PM lên kế hoạch tổng thể dự án           | PM                       | 3 ngày sau Kickoff | Kế hoạch dự án                                |
+| 1.7    | PM bổ nhiệm AA & CA phù hợp                 | PM                       | Ngay sau Kickoff    | Thông báo phân công                           |
+| 1.8    | Setup dự án trên hệ thống                  | AA                       | 1 ngày             | Folder Larksuite, nhóm Zalo, HBSS                |
 
 > **Nội dung Kickoff bắt buộc:**
 >
@@ -136,13 +137,15 @@ flowchart TD
 | 2.5    | Phối hợp thực hiện thiết kế      | AA             | ĐV Thiết kế      | Bản vẽ draft              |
 | 2.6    | Góp ý & kiểm tra thiết kế         | AA + PM        | KH                  | Báo cáo góp ý           |
 | 2.7    | Chỉnh sửa theo góp ý               | ĐV Thiết kế | AA theo dõi        | Bản vẽ chỉnh sửa        |
-| 2.8    | KH duyệt & nghiệm thu thiết kế     | KH             | PM + AA             | Bộ hồ sơ TK hoàn chỉnh |
+| 2.8    | ĐV Thiết kế lập Dự toán chi tiết   | ĐV Thiết kế | PM + AA kiểm tra   | Dự toán chi tiết theo hồ sơ TK |
+| 2.9    | PM + Account cập nhật Ngân sách     | PM + Account   | KH duyệt           | Bảng ngân sách cập nhật theo dự toán TK |
+| 2.10   | KH duyệt & nghiệm thu thiết kế     | KH             | PM + AA             | Bộ hồ sơ TK hoàn chỉnh |
 
 > **Công việc song song trong Phase 2:**
 >
 > - PM thống nhất tiêu chuẩn thi công cho dự án
 > - PM thống nhất quy trình kiểm tra & đánh giá CL
-> - Account duy trì liên lạc với KH, báo cáo tiến độ TK
+> - Account duy trì liên lạc với KH, tư vấn chi phí
 
 ---
 
@@ -190,7 +193,7 @@ flowchart TD
 | Theo dõi ngân sách & thanh toán         | PM + Account       | Hàng tháng   |
 | Kiểm tra nhật ký công trình            | CA                  | Hàng tuần    |
 | Họp giao ban công trường                | PM + CA + NT        | Hàng tuần    |
-| Báo cáo tuần cho KH                      | PM + Account        | Hàng tuần    |
+| Báo cáo tuần cho KH                      | CA/AA (PM duyệt)    | Hàng tuần    |
 | Chăm sóc KH & duy trì liên lạc         | Account             | Hàng ngày/Tuần |
 | Tư vấn vật liệu & thiết bị công trình | Account             | Theo tiến độ thi công |
 | Hỗ trợ KH lựa chọn thầu phụ & NCC        | Account             | Khi phát sinh  |

@@ -31,9 +31,9 @@ flowchart LR
 
     subgraph P4["Phase 4: Thi Công"]
         C1["Check-in hàng ngày/tuần"]
-        C2["Báo cáo tuần"]
         C3["Xử lý Ticket"]
         C4["Tư vấn VL/TB"]
+        C5["Kiểm soát ngân sách"]
     end
 
     subgraph P56["Phase 5-6: BG & BH"]
@@ -80,7 +80,7 @@ flowchart LR
 | -------------------------- | --------------------- | ---------------------- | --------------------------------------------- |
 | **Phase 2: Thiết kế**     | 1-2 lần/tuần          | Zalo/Điện thoại        | Tiến độ TK, yêu cầu KH duyệt                |
 | **Phase 3: Chọn NT**      | 1-2 lần/tuần          | Zalo/Họp               | Báo giá NT, hỗ trợ đánh giá                 |
-| **Phase 4: Thi công**     | Hàng ngày hoặc 2-3 lần/tuần | Zalo + Báo cáo tuần | Tiến độ, vấn đề phát sinh, Ticket            |
+| **Phase 4: Thi công**     | Hàng ngày hoặc 2-3 lần/tuần | Zalo + Điện thoại      | Tiến độ, vấn đề phát sinh, Ticket (BC tuần do CA/AA lập) |
 | **Phase 5: Nghiệm thu**   | Hàng ngày              | Zalo/Gọi điện + Họp   | Lịch nghiệm thu, punch list, bàn giao        |
 | **Phase 6: Bảo hành**     | 1 lần/tháng            | Zalo/Điện thoại        | Tình trạng bảo hành, Scorecard, feedback      |
 

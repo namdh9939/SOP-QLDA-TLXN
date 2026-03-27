@@ -9,7 +9,7 @@
 
 ## 1. Mục Đích
 
-Đảm bảo KH được cập nhật **đầy đủ, đúng hạn và chuyên nghiệp** về tình hình dự án thông qua hệ thống báo cáo chuẩn hóa. Account là **R** (Responsible) cho việc format, tổng hợp và gửi báo cáo đến KH.
+Đảm bảo KH được cập nhật **đầy đủ, đúng hạn và chuyên nghiệp** về tình hình dự án. **CA/AA** chịu trách nhiệm lập báo cáo, **PM** duyệt và **CA/AA** gửi cho KH. Account hỗ trợ cung cấp thông tin về Ticket, Scorecard và chi phí để bổ sung vào báo cáo.
 
 ---
 
@@ -28,10 +28,12 @@
 
 ```mermaid
 flowchart LR
-    A["CA gửi<br/>dữ liệu công trường<br/>(Thứ 6)"] --> B["PM tổng hợp<br/>& kiểm tra<br/>(Thứ 7 / CN)"]
-    B --> C["Account format<br/>& bổ sung<br/>(CN / Thứ 2 sáng)"]
-    C --> D["Gửi KH<br/>(Trước 12h Thứ 2)"]
+    A["CA gửi<br/>dữ liệu công trường<br/>(Thứ 6)"] --> B["CA/AA lập<br/>báo cáo tuần<br/>(Thứ 7 / CN)"]
+    B --> C["PM duyệt<br/>nội dung<br/>(CN / Thứ 2 sáng)"]
+    C --> D["CA/AA gửi KH<br/>(Trước 12h Thứ 2)"]
 ```
+
+> 📌 **Account hỗ trợ:** Cung cấp dữ liệu Ticket, Scorecard, chi phí để CA/AA bổ sung vào báo cáo.
 
 ### SLA Gửi Báo Cáo
 

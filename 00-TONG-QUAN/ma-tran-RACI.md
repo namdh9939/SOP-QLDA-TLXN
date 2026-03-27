@@ -26,6 +26,7 @@
 | Bàn giao hồ sơ KH           | **R** | **R** | **R** |      I      | — |    —    |  I  |
 | Kiểm tra hồ sơ đầy đủ   |     —     | **S** | **R** |     —     | — |    —    |  —  |
 | Tổ chức họp Kickoff         | **R** | **R** | **R** |      I      | — |    —    |  I  |
+| Lập Khái toán Ngân sách XN  |     —     |      I      | **R** | **S** | — |    —    |  I  |
 | Lập kế hoạch tổng thể     |     —     |      C      | **R** | **S** | C |    —    |  I  |
 | Bổ nhiệm AA/CA               |     —     |      I      | **R** |     —     | — |    —    |  I  |
 | Setup dự án trên hệ thống |     —     |     —     | **A** | **R** | — |    —    |  —  |
@@ -40,6 +41,8 @@
 | Kiểm tra tiến độ thiết kê lập |  —  |      I      |   **S**   | **R** | — |    —    |  —  |
 | Phối hợp thực hiện TK            |  —  |      I      | **A** | **R** | — |    —    |  —  |
 | Góp ý & kiểm tra TK               |  —  |      I      |      C      | **R** | — |    —    |  —  |
+| ĐV TK lập Dự toán chi tiết       |  —  |      I      | **A** | **R** | — |    —    |  —  |
+| Cập nhật Ngân sách theo dự toán   |  —  | **S** | **R** | **S** | — |    —    |  —  |
 | Nghiệm thu thiết kế               |  —  |      I      | **A** | **R** | — |    —    |  —  |
 
 ### PHASE 3: LỰA CHỌN NHÀ THẦU
@@ -65,7 +68,7 @@
 | Đề nghị thanh toán NT       |  —  |     —     | **R** | **S** |     —     | **R** | **A** |
 | Quản lý thay đổi/phát sinh |  —  |      I      | **R** | **S** | **S** |      C      | **A** |
 | Họp giao ban công trường    |  —  |     —     | **R** |     —     | **R** |     —     |     —     |
-| Báo cáo tuần                 |  —  | **R** | **R** | **S** | **S** |     —     |      I      |
+| Báo cáo tuần                 |  —  |      I      | **A** | **R** | **R** |     —     |      I      |
 | Xử lý Ticket KH               |  —  | **R** |      C      | **S** | **S** |     —     |     —     |
 | Xử lý sự cố công trường  |  —  |      I      | **R** |     —     | **R** |     —     |      I      |
 | Điều phối nhà thầu phụ    |  —  |     —     | **R** |     —     | **S** |     —     |     —     |

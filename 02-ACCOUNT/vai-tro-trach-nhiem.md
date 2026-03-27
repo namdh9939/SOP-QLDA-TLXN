@@ -38,10 +38,10 @@ mindmap
       Giới thiệu đối tác NCM
       Hỗ trợ đánh giá
       Theo dõi thực hiện
-    5. Báo cáo & Giao tiếp
-      Báo cáo tuần/tháng
-      Quản lý Scorecard
+    5. Giao tiếp & Hỗ trợ
       Xử lý Ticket
+      Quản lý Scorecard
+      Duy trì liên lạc KH
 ```
 
 ### 2.1 Chăm sóc Quan hệ Khách hàng (Customer Success)
@@ -78,13 +78,12 @@ mindmap
 
 > 👉 Chi tiết: [ho-tro-lua-chon-thau-phu-ncc.md](./ho-tro-lua-chon-thau-phu-ncc.md)
 
-### 2.5 Báo cáo & Giao tiếp Chính thức
+### 2.5 Giao tiếp & Hỗ trợ KH
 
-- Tổng hợp & gửi báo cáo tuần/tháng cho KH
-- Quản lý Scorecard đánh giá dịch vụ hàng tháng
 - Tiếp nhận & xử lý Ticket từ KH
-
-> 👉 Chi tiết: [bao-cao-dinh-ky-cho-kh.md](./bao-cao-dinh-ky-cho-kh.md), [xu-ly-ticket-khieu-nai.md](./xu-ly-ticket-khieu-nai.md), [scorecard-danh-gia-dich-vu.md](./scorecard-danh-gia-dich-vu.md)
+- Quản lý Scorecard đánh giá dịch vụ hàng tháng
+- Duy trì liên lạc thường xuyên với KH
+- Phối hợp cung cấp thông tin cho CA/AA để lập báo cáo
 
 ---
 
@@ -96,7 +95,7 @@ mindmap
 | **Ngân sách**          | Theo dõi & báo cáo cho KH (**R**)        | Phê duyệt & kiểm soát tổng (**A**)    |
 | **Quyết định kỹ thuật** | Không quyết định                         | Quyết định & chịu trách nhiệm         |
 | **Ticket**             | Tiếp nhận & phân loại (**R**)            | Xử lý kỹ thuật (**C**)                |
-| **Báo cáo tuần**      | Format, gửi KH (**R**)                   | Cung cấp nội dung (**R**)             |
+| **Báo cáo tuần**      | Phối hợp cung cấp thông tin (**I**)        | CA/AA lập, PM duyệt (**A**)             |
 | **Vật liệu/TB**       | Tư vấn & kết nối NCC                     | Góp ý kỹ thuật                        |
 | **Thầu phụ/NCC**      | Hỗ trợ KH lựa chọn                       | Quyết định kỹ thuật                   |
 | **Scorecard**          | Thu thập & quản lý (**R**)               | Được thông báo (**I**)                |
@@ -111,7 +110,7 @@ mindmap
 | **Phase 1: Kickoff** | **R**        | Tiếp nhận KH, Kickoff, phỏng vấn requirement            |
 | **Phase 2: TK**      | **S** / I    | Hỗ trợ tổng hợp yêu cầu TK, duy trì liên lạc KH       |
 | **Phase 3: Chọn NT** | I            | Hỗ trợ KH đánh giá thầu phụ/NCC                        |
-| **Phase 4: TC**      | **R**        | Ngân sách, báo cáo tuần, Ticket, chăm sóc KH, tư vấn VL |
+| **Phase 4: TC**      | **R**        | Ngân sách, Ticket, chăm sóc KH, tư vấn VL         |
 | **Phase 5: NTBG**    | **R**        | Bàn giao công trình cùng PM                              |
 | **Phase 6: BH**      | **R**        | Bảo hành, Scorecard, feedback, đóng dự án               |
 
