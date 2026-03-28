@@ -1,6 +1,6 @@
-# Báo Cáo Định Kỳ Cho KH
+﻿# Báo Cáo Định Kỳ Cho KH
 
-> **Mã SOP:** SOP-02-006
+> **Mã SOP:** SOP-05-006
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -120,7 +120,7 @@ flowchart LR
 [Bảng chi tiết theo hạng mục — tương tự BC tuần nhưng tổng hợp cả tháng]
 
 ## 3. Báo Cáo Chi Phí
-[Trích từ SOP-02-003 — Template báo cáo chi phí]
+[Trích từ SOP-05-003 — Template báo cáo chi phí]
 
 ## 4. Tổng Hợp Ticket
 [Thống kê Ticket: tổng số, đã xử lý, đang mở, quá hạn SLA]
@@ -167,4 +167,4 @@ flowchart LR
 | Kiểm soát ngân sách       | [quan-ly-ngan-sach-chi-phi.md](./quan-ly-ngan-sach-chi-phi.md)          |
 | Xử lý Ticket              | [xu-ly-ticket-khieu-nai.md](./xu-ly-ticket-khieu-nai.md)               |
 | Scorecard                  | [scorecard-danh-gia-dich-vu.md](./scorecard-danh-gia-dich-vu.md)       |
-| Báo cáo review định kỳ PM | [../03-PM/bao-cao-review-dinh-ky.md](../03-PM/bao-cao-review-dinh-ky.md) |
+| Báo cáo review định kỳ PM | [../04-PM/bao-cao-review-dinh-ky.md](../04-PM/bao-cao-review-dinh-ky.md) |

@@ -1,6 +1,6 @@
-# Xử Lý Ticket & Khiếu Nại Từ KH
+﻿# Xử Lý Ticket & Khiếu Nại Từ KH
 
-> **Mã SOP:** SOP-02-007
+> **Mã SOP:** SOP-05-007
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -151,4 +151,4 @@ Khi KH khiếu nại chính thức (bằng văn bản hoặc yêu cầu gặp qu
 | --------------------------- | --------------------------------------------------------------------------------- |
 | Scorecard & Đánh giá DV    | [scorecard-danh-gia-dich-vu.md](./scorecard-danh-gia-dich-vu.md)                 |
 | Chăm sóc KH                | [cham-soc-khach-hang.md](./cham-soc-khach-hang.md)                                |
-| Escalation nội bộ          | [../07-PHOI-HOP-NOI-BO/escalation-noi-bo.md](../07-PHOI-HOP-NOI-BO/escalation-noi-bo.md) |
+| Escalation nội bộ          | [../09-PHOI-HOP-NOI-BO/escalation-noi-bo.md](../09-PHOI-HOP-NOI-BO/escalation-noi-bo.md) |

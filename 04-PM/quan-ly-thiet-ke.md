@@ -1,6 +1,6 @@
-# Quản Lý Thiết Kế
+﻿# Quản Lý Thiết Kế
 
-> **Mã SOP:** SOP-03-003
+> **Mã SOP:** SOP-04-003
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -149,5 +149,5 @@ Nghiệm thu chính thức được thực hiện sau khi ĐV TK nộp bộ hồ
 | Tài liệu                    | Link                                                                          |
 | ---------------------------- | ----------------------------------------------------------------------------- |
 | Lập kế hoạch dự án          | [lap-ke-hoach-du-an.md](./lap-ke-hoach-du-an.md)                             |
-| Quản lý ngân sách           | [../02-ACCOUNT/quan-ly-ngan-sach-chi-phi.md](../02-ACCOUNT/quan-ly-ngan-sach-chi-phi.md) |
+| Quản lý ngân sách           | [../05-ACCOUNT/quan-ly-ngan-sach-chi-phi.md](../05-ACCOUNT/quan-ly-ngan-sach-chi-phi.md) |
 | Lựa chọn nhà thầu           | [lua-chon-nha-thau.md](./lua-chon-nha-thau.md)                               |

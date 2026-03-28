@@ -1,6 +1,6 @@
-# Quản Lý Thi Công
+﻿# Quản Lý Thi Công
 
-> **Mã SOP:** SOP-03-005
+> **Mã SOP:** SOP-04-005
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -170,4 +170,4 @@ flowchart TD
 | Quản lý thay đổi/phát sinh     | [quan-ly-thay-doi-phat-sinh.md](./quan-ly-thay-doi-phat-sinh.md)    |
 | Quản lý thanh toán             | [quan-ly-thanh-toan.md](./quan-ly-thanh-toan.md)                    |
 | Báo cáo định kỳ               | [bao-cao-review-dinh-ky.md](./bao-cao-review-dinh-ky.md)            |
-| Escalation nội bộ             | [../07-PHOI-HOP-NOI-BO/escalation-noi-bo.md](../07-PHOI-HOP-NOI-BO/escalation-noi-bo.md) |
+| Escalation nội bộ             | [../09-PHOI-HOP-NOI-BO/escalation-noi-bo.md](../09-PHOI-HOP-NOI-BO/escalation-noi-bo.md) |

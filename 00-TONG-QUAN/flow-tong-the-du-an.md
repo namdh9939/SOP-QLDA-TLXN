@@ -1,4 +1,4 @@
-# Flow Tổng Thể Dự Án — End-to-End
+﻿# Flow Tổng Thể Dự Án — End-to-End
 
 > Tài liệu mô tả toàn bộ vòng đời một dự án từ khi bộ phận Sale tiếp cận khách hàng cho đến khi đóng dự án và bàn giao bảo hành.
 
@@ -181,7 +181,7 @@ flowchart TD
 | **Nội thất**              | Trần trang trí, tủ bếp, tủ quần áo, rèm, gương                              | CA + AA           | ~7       |
 | **Thiết bị**              | Thang máy, PCCC, điều hòa                                                         | CA                | ~3       |
 
-> **👉 Chi tiết checklist:** [05-CA/checklist-nghiem-thu/README.md](../05-CA/checklist-nghiem-thu/README.md)
+> **👉 Chi tiết checklist:** [07-CA/checklist-nghiem-thu/README.md](../07-CA/checklist-nghiem-thu/README.md)
 
 #### 4.2 Công việc phụ trợ (xuyên suốt Phase 4)
 
@@ -232,8 +232,8 @@ flowchart TD
 
 | Quy trình                     | Mô tả                                                             | Tham chiếu                                                                            |
 | ------------------------------ | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **Ticket**               | KH tạo ticket → Tiếp nhận 24h → P1/P2/P3 → Xử lý theo SLA   | [09-PHU-LUC/ticket-scorecard-escalation.md](../09-PHU-LUC/ticket-scorecard-escalation.md) |
-| **Escalation**           | Cấp 1: PM → Cấp 2: Director → Cấp 3: Biên bản + HĐ          | [07-PHOI-HOP-NOI-BO/escalation-noi-bo.md](../07-PHOI-HOP-NOI-BO/escalation-noi-bo.md)     |
-| **Báo cáo định kỳ** | Tuần: CA báo cáo → PM tổng hợp & gửi KH                     | [03-PM/bao-cao-review-dinh-ky.md](../03-PM/bao-cao-review-dinh-ky.md)                     |
-| **Quản lý thay đổi** | Phát sinh → PM đánh giá → KH duyệt → Cập nhật ngân sách | [03-PM/quan-ly-thay-doi-phat-sinh.md](../03-PM/quan-ly-thay-doi-phat-sinh.md)             |
-| **Scorecard**            | KH đánh giá dịch vụ, đối soát Quỹ Cam kết CL hàng tháng | [09-PHU-LUC/ticket-scorecard-escalation.md](../09-PHU-LUC/ticket-scorecard-escalation.md) |
+| **Ticket**               | KH tạo ticket → Tiếp nhận 24h → P1/P2/P3 → Xử lý theo SLA   | [11-PHU-LUC/ticket-scorecard-escalation.md](../11-PHU-LUC/ticket-scorecard-escalation.md) |
+| **Escalation**           | Cấp 1: PM → Cấp 2: Director → Cấp 3: Biên bản + HĐ          | [09-PHOI-HOP-NOI-BO/escalation-noi-bo.md](../09-PHOI-HOP-NOI-BO/escalation-noi-bo.md)     |
+| **Báo cáo định kỳ** | Tuần: CA báo cáo → PM tổng hợp & gửi KH                     | [04-PM/bao-cao-review-dinh-ky.md](../04-PM/bao-cao-review-dinh-ky.md)                     |
+| **Quản lý thay đổi** | Phát sinh → PM đánh giá → KH duyệt → Cập nhật ngân sách | [04-PM/quan-ly-thay-doi-phat-sinh.md](../04-PM/quan-ly-thay-doi-phat-sinh.md)             |
+| **Scorecard**            | KH đánh giá dịch vụ, đối soát Quỹ Cam kết CL hàng tháng | [11-PHU-LUC/ticket-scorecard-escalation.md](../11-PHU-LUC/ticket-scorecard-escalation.md) |

@@ -1,6 +1,6 @@
-# Phối Hợp Bàn Giao & Theo Dõi Bảo Hành
+﻿# Phối Hợp Bàn Giao & Theo Dõi Bảo Hành
 
-> **Mã SOP:** SOP-02-009
+> **Mã SOP:** SOP-05-009
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)

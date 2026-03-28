@@ -1,6 +1,6 @@
-# Vai Trò, Chức Năng & KPI của Account Manager
+﻿# Vai Trò, Chức Năng & KPI của Account Manager
 
-> **Mã SOP:** SOP-02-001
+> **Mã SOP:** SOP-05-001
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)

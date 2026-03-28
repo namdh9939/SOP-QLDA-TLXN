@@ -1,6 +1,6 @@
-# Tư Vấn Vật Liệu & Thiết Bị Cho KH
+﻿# Tư Vấn Vật Liệu & Thiết Bị Cho KH
 
-> **Mã SOP:** SOP-02-004
+> **Mã SOP:** SOP-05-004
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -142,4 +142,4 @@ Account xây dựng & duy trì danh sách NCC tin cậy trên Larksuite:
 | ----------------------------- | ---------------------------------------------------------------------------- |
 | Hỗ trợ chọn thầu phụ & NCC  | [ho-tro-lua-chon-thau-phu-ncc.md](./ho-tro-lua-chon-thau-phu-ncc.md)        |
 | Kiểm soát ngân sách          | [quan-ly-ngan-sach-chi-phi.md](./quan-ly-ngan-sach-chi-phi.md)               |
-| Đối tác NCC                  | [../06-PHOI-HOP-DOI-TAC/nha-cung-cap/](../06-PHOI-HOP-DOI-TAC/nha-cung-cap/) |
+| Đối tác NCC                  | [../08-PHOI-HOP-DOI-TAC/nha-cung-cap/](../08-PHOI-HOP-DOI-TAC/nha-cung-cap/) |

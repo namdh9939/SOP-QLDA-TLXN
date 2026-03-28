@@ -12,7 +12,9 @@ Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (
 
 | Vai trò                              | Mô tả                                                                                  | Emoji |
 | ------------------------------------- | ---------------------------------------------------------------------------------------- | ----- |
-| **PM** (Project Manager)        | Quản lý dự án — điều phối tổng thể, lập kế hoạch, "single point of contact" | 🎯    |
+| **PO** (Project Owner)          | Người đứng đầu Squad, xét duyệt cuối đối tác, chịu doanh số Squad         | 🏆    |
+| **PD** (Project Director)       | Quản lý 4 Squad (4 PO), chịu trách nhiệm tổng doanh số & CL dịch vụ      | 👔    |
+| **PM** (Project Manager)        | Quản lý dự án — thuần kỹ thuật, điều phối CA/AA, hỗ trợ Account bằng số liệu  | 🎯    |
 | **Account** (Account Manager)   | Đầu mối tiếp nhận yêu cầu KH, chăm sóc thường trực, kết nối đối tác     | 🤝    |
 | **AA** (Architect Assistant)    | Trợ lý thiết kế — kiểm soát kiến trúc, phối hợp thiết kế                    | 📐    |
 | **CA** (Construction Assistant) | Trợ lý công trình — giám sát hiện trường, nghiệm thu thi công                | 🔨    |
@@ -37,7 +39,7 @@ Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (
 │   ├── tieu-chi-tiep-nhan-du-an.md
 │   └── xu-ly-thong-tin-thieu.md
 │
-├── 📁 02-ACCOUNT/                       ← SOP cho Account Manager
+├── 📁 05-ACCOUNT/                       ← SOP cho Account Manager
 │   ├── vai-tro-trach-nhiem.md
 │   ├── tiep-nhan-thong-tin-khach-hang.md
 │   ├── quan-ly-quan-he-khach-hang.md
@@ -46,7 +48,7 @@ Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (
 │   ├── upsell-va-gia-han-dich-vu.md
 │   └── ban-giao-lai-khi-ket-thuc.md
 │
-├── 📁 03-PM/                            ← SOP cho Project Manager
+├── 📁 04-PM/                            ← SOP cho Project Manager
 │   ├── vai-tro-trach-nhiem.md
 │   ├── tiep-nhan-du-an-tu-kickoff.md
 │   ├── bo-nhiem-nhan-su-AA-CA.md
@@ -60,7 +62,7 @@ Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (
 │   ├── nghiem-thu-ban-giao.md
 │   └── dong-du-an.md
 │
-├── 📁 04-AA/                            ← SOP cho Architect Assistant
+├── 📁 06-AA/                            ← SOP cho Architect Assistant
 │   ├── vai-tro-trach-nhiem.md
 │   ├── quan-ly-ho-so-tai-lieu.md
 │   ├── nhap-lieu-thu-chi.md
@@ -69,7 +71,7 @@ Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (
 │   ├── phoi-hop-kiem-tra-thiet-ke.md
 │   └── ho-tro-PM-ve-hanh-chinh.md
 │
-├── 📁 05-CA/                            ← SOP cho Construction Assistant
+├── 📁 07-CA/                            ← SOP cho Construction Assistant
 │   ├── vai-tro-trach-nhiem.md
 │   ├── giam-sat-cong-truong.md
 │   ├── kiem-tra-chat-luong-thi-cong.md
@@ -84,28 +86,40 @@ Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (
 │       ├── 📁 co-dien/
 │       └── 📁 thiet-bi/
 │
-├── 📁 06-PHOI-HOP-DOI-TAC/             ← Phối hợp bên ngoài
+├── 📁 08-PHOI-HOP-DOI-TAC/             ← Phối hợp bên ngoài
 │   ├── 📁 thiet-ke/
 │   ├── 📁 nha-thau/
 │   ├── 📁 nha-cung-cap/
 │   └── 📁 co-quan-chuc-nang/
 │
-├── 📁 07-PHOI-HOP-NOI-BO/              ← Phối hợp phòng ban nội bộ
+├── 📁 09-PHOI-HOP-NOI-BO/              ← Phối hợp phòng ban nội bộ
 │   ├── phoi-hop-ke-toan.md
 │   ├── phoi-hop-HR.md
 │   ├── phoi-hop-marketing.md
 │   ├── bao-cao-ban-giam-doc.md
 │   └── escalation-noi-bo.md
 │
-├── 📁 08-BIEU-MAU-TEMPLATE/            ← Biểu mẫu chuẩn
+├── 📁 10-BIEU-MAU-TEMPLATE/            ← Biểu mẫu chuẩn
 │   ├── README.md
-│   └── (các file mẫu)
+│   ├── form-khai-toan-ngan-sach.md      Form khái toán ngân sách xây nhà
+│   └── (các file mẫu khác)
 │
-└── 📁 09-PHU-LUC/                      ← Phụ lục & Tham khảo
-    ├── FAQ.md
-    ├── cam-ket-chat-luong.md
-    ├── ticket-scorecard-escalation.md
-    └── changelog.md
+├── 📁 11-PHU-LUC/                      ← Phụ lục & Tham khảo
+│   ├── FAQ.md
+│   ├── cam-ket-chat-luong.md
+│   ├── ticket-scorecard-escalation.md
+│   └── changelog.md
+│
+├── 📁 02-PO/                            ← SOP cho Project Owner
+│   ├── vai-tro-trach-nhiem.md           Vai trò, quyền hạn, KPI của PO
+│   ├── quan-ly-squad.md                 Vận hành Squad, quản lý nhân sự
+│   ├── phe-duyet-doi-tac.md             Phê duyệt đối tác cho công trình
+│   └── escalation-cap-2.md              Xử lý Escalation cấp 2
+│
+└── 📁 03-PD/                            ← SOP cho Project Director
+    ├── vai-tro-trach-nhiem.md           Vai trò, quyền hạn, KPI của PD
+    ├── quan-ly-cac-squad.md             Quản lý 4 Squad
+    └── escalation-cap-3.md              Xử lý Escalation cấp 3
 ```
 
 ---
@@ -144,7 +158,9 @@ Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (
 | Phase 7  | Phối hợp Đối tác               | 🔲 Chưa bắt đầu |
 | Phase 8  | Phối hợp Nội bộ                 | 🔲 Chưa bắt đầu |
 | Phase 9  | Biểu mẫu + Phụ lục              | 🔲 Chưa bắt đầu |
-| Phase 10 | Review & Hoàn thiện               | 🔲 Chưa bắt đầu |
+| Phase 10 | SOP PO (Project Owner)            | ✅ Hoàn thành     |
+| Phase 11 | SOP PD (Project Director)         | ✅ Hoàn thành     |
+| Phase 12 | Review & Hoàn thiện               | 🔲 Chưa bắt đầu |
 
 ---
 
@@ -154,6 +170,7 @@ Tài liệu này hệ thống hóa toàn bộ **Quy trình vận hành chuẩn (
 | ---------- | ----------- | ---------------------------------------------- |
 | 2026-03-27 | v1.0.0      | Khởi tạo cấu trúc SOP, Phase 1: Tổng quan |
 | 2026-03-27 | v1.1.0      | Phase 2: SOP Phối hợp Sale ↔ QLDA (4 SOP)   |
+| 2026-03-28 | v1.2.0      | Thêm SOP PO (02-PO) & PD (03-PD), cập nhật phân quyền đối tác, form khái toán |
 
 ---
 

@@ -1,6 +1,6 @@
-# Vai Trò, Chức Năng & KPI của Project Manager
+﻿# Vai Trò, Chức Năng & KPI của Project Manager
 
-> **Mã SOP:** SOP-03-001
+> **Mã SOP:** SOP-04-001
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -62,5 +62,5 @@ mindmap
 | ---------------------- | ------------------------------------------------------------------ |
 | Flow tổng thể dự án  | [../00-TONG-QUAN/flow-tong-the-du-an.md](../00-TONG-QUAN/flow-tong-the-du-an.md) |
 | Ma trận RACI          | [../00-TONG-QUAN/ma-tran-RACI.md](../00-TONG-QUAN/ma-tran-RACI.md) |
-| SOP Account Manager   | [../02-ACCOUNT/vai-tro-trach-nhiem.md](../02-ACCOUNT/vai-tro-trach-nhiem.md) |
-| Escalation nội bộ     | [../07-PHOI-HOP-NOI-BO/escalation-noi-bo.md](../07-PHOI-HOP-NOI-BO/escalation-noi-bo.md) |
+| SOP Account Manager   | [../05-ACCOUNT/vai-tro-trach-nhiem.md](../05-ACCOUNT/vai-tro-trach-nhiem.md) |
+| Escalation nội bộ     | [../09-PHOI-HOP-NOI-BO/escalation-noi-bo.md](../09-PHOI-HOP-NOI-BO/escalation-noi-bo.md) |

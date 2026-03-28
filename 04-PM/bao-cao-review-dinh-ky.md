@@ -1,6 +1,6 @@
-# Báo Cáo & Review Định Kỳ
+﻿# Báo Cáo & Review Định Kỳ
 
-> **Mã SOP:** SOP-03-008
+> **Mã SOP:** SOP-04-008
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -131,6 +131,6 @@ Cuối mỗi tháng thi công, PM tổ chức họp nội bộ để review:
 
 | Tài liệu                     | Link                                                             |
 | ----------------------------- | ---------------------------------------------------------------- |
-| Báo cáo định kỳ (Account)   | [../02-ACCOUNT/bao-cao-dinh-ky-cho-kh.md](../02-ACCOUNT/bao-cao-dinh-ky-cho-kh.md) |
+| Báo cáo định kỳ (Account)   | [../05-ACCOUNT/bao-cao-dinh-ky-cho-kh.md](../05-ACCOUNT/bao-cao-dinh-ky-cho-kh.md) |
 | Quản lý thi công             | [quan-ly-thi-cong.md](./quan-ly-thi-cong.md)                   |
 | Nghiệm thu bàn giao          | [nghiem-thu-ban-giao-dong-du-an.md](./nghiem-thu-ban-giao-dong-du-an.md) |

@@ -1,6 +1,6 @@
-# Kiểm Soát Ngân Sách & Chi Phí Cho KH
+﻿# Kiểm Soát Ngân Sách & Chi Phí Cho KH
 
-> **Mã SOP:** SOP-02-003
+> **Mã SOP:** SOP-05-003
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -190,5 +190,5 @@ flowchart LR
 | Tài liệu                    | Link                                                                          |
 | ---------------------------- | ------------------------------------------------------------------------------ |
 | Các gói dịch vụ              | [../00-TONG-QUAN/cac-goi-dich-vu.md](../00-TONG-QUAN/cac-goi-dich-vu.md)      |
-| Quản lý thay đổi / phát sinh | [../03-PM/quan-ly-thay-doi-phat-sinh.md](../03-PM/quan-ly-thay-doi-phat-sinh.md) |
+| Quản lý thay đổi / phát sinh | [../04-PM/quan-ly-thay-doi-phat-sinh.md](../04-PM/quan-ly-thay-doi-phat-sinh.md) |
 | Scorecard & Đánh giá DV      | [scorecard-danh-gia-dich-vu.md](./scorecard-danh-gia-dich-vu.md)               |

@@ -1,6 +1,6 @@
-# Quản Lý Scorecard & Đánh Giá Dịch Vụ
+﻿# Quản Lý Scorecard & Đánh Giá Dịch Vụ
 
-> **Mã SOP:** SOP-02-008
+> **Mã SOP:** SOP-05-008
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)

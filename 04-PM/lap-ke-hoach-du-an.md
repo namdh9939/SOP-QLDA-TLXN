@@ -1,6 +1,6 @@
-# Lập Kế Hoạch Dự Án
+﻿# Lập Kế Hoạch Dự Án
 
-> **Mã SOP:** SOP-03-002
+> **Mã SOP:** SOP-04-002
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -34,24 +34,30 @@ flowchart TD
 
 PM lập bảng Khái Toán để KH biết rõ **tổng mức đầu tư** cần chuẩn bị. Đây là tài liệu tài chính quan trọng nhất ở giai đoạn đầu.
 
+> 🔴 **Nguyên tắc bắt buộc:**
+> 1. Khái toán phải **bám theo dữ liệu từ Form Requirement** khách hàng đã cung cấp trước đó (loại hình nhà, diện tích, số tầng, phong cách, ngân sách dự kiến, yêu cầu đặc biệt...)
+> 2. Sử dụng **Form Khái Toán chuẩn của công ty** — xem [form-khai-toan-ngan-sach.md](../10-BIEU-MAU-TEMPLATE/form-khai-toan-ngan-sach.md)
+
 | Bước | Hành động                                                    | Ai            | Deadline           |
 | ---- | ------------------------------------------------------------- | ------------- | ------------------ |
-| 1    | Đọc lại hồ sơ Sale, Form Requirement của KH                 | PM            | Ngay sau Kickoff   |
-| 2    | Lập khái toán 3 phần dựa trên kinh nghiệm + thông tin KH   | PM            | 1 ngày sau Kickoff |
-| 3    | Account review để bổ sung mong muốn/lo ngại của KH          | PM + Account  | 1 ngày sau Kickoff |
+| 1    | **Đọc kỹ Form Requirement** của KH — đối chiếu từng mục yêu cầu | PM            | Ngay sau Kickoff   |
+| 2    | Điền vào **Form Khái Toán chuẩn** — bám sát thông tin từ Form Requirement + kinh nghiệm PM | PM            | 1 ngày sau Kickoff |
+| 3    | Account review để bổ sung mong muốn/lo ngại của KH, đối chiếu ngân sách KH dự kiến | PM + Account  | 1 ngày sau Kickoff |
 | 4    | Trình bày Khái Toán cho KH (qua Zalo hoặc họp nhanh)        | PM + Account  | 2 ngày sau Kickoff |
 | 5    | KH xác nhận ngân sách ban đầu                                | KH            | Trong tuần đầu     |
 | 6    | Account + AA tạo bảng theo dõi ngân sách trên Larksuite/Excel| Account + AA  | Trong tuần đầu     |
 
-> **Cấu trúc bảng Khái Toán Ngân Sách Xây Nhà:**
+> **Cấu trúc bảng Khái Toán Ngân Sách Xây Nhà** (theo Form chuẩn công ty):
 >
-> | Phần | Ví dụ các hạng mục |
-> |------|-------------------|
-> | **A. Trước khi khởi công** | Trợ Lý Xây Nhà, Thiết kế, Dự toán, Khảo sát địa chất, Giấy phép XD, Bảo hiểm CT, ... |
-> | **B. Trong khi xây nhà** | Xây thô, Hoàn thiện GĐ1, Nội thất, Thang máy, Thiết bị điện tử, Công nghệ thông minh, ... |
-> | **C. Sau khi xây nhà** | Hoàn công, Hoạt động tâm linh, ... |
+> | Phần | Ví dụ các hạng mục | Nguồn dữ liệu |
+> |------|-------------------|----------------|
+> | **A. Trước khi khởi công** | Trợ Lý Xây Nhà, Thiết kế, Dự toán, Khảo sát địa chất, Giấy phép XD, Bảo hiểm CT, ... | Gói DV KH chọn, loại hình CT |
+> | **B. Trong khi xây nhà** | Xây thô, Hoàn thiện GĐ1, Nội thất, Thang máy, Thiết bị điện tử, Công nghệ thông minh, ... | Diện tích sàn, số tầng, phong cách, yêu cầu đặc biệt từ Form |
+> | **C. Sau khi xây nhà** | Hoàn công, Hoạt động tâm linh, Cảnh quan, ... | Yêu cầu KH |
+>
+> 👉 **Form chi tiết:** [form-khai-toan-ngan-sach.md](../10-BIEU-MAU-TEMPLATE/form-khai-toan-ngan-sach.md)
 
-> ⚠️ **Lưu ý:** Đây là con số **ước tính ban đầu** dựa trên kinh nghiệm. Sẽ được cập nhật chính xác hơn sau khi đơn vị thiết kế lập Dự Toán chi tiết (Phase 2).
+> ⚠️ **Lưu ý:** Đây là con số **ước tính ban đầu** dựa trên Form Requirement + kinh nghiệm PM. Sẽ được cập nhật chính xác hơn sau khi đơn vị thiết kế lập Dự Toán chi tiết (Phase 2). Mục "So Sánh Với Ngân Sách KH" trong Form giúp PM phát hiện sớm nếu kỳ vọng KH chênh lệch quá lớn so với thực tế.
 
 ---
 
@@ -145,6 +151,6 @@ Agenda bắt buộc:
 
 | Tài liệu                    | Link                                                                             |
 | ---------------------------- | -------------------------------------------------------------------------------- |
-| Quản lý ngân sách (Account) | [../02-ACCOUNT/quan-ly-ngan-sach-chi-phi.md](../02-ACCOUNT/quan-ly-ngan-sach-chi-phi.md) |
+| Quản lý ngân sách (Account) | [../05-ACCOUNT/quan-ly-ngan-sach-chi-phi.md](../05-ACCOUNT/quan-ly-ngan-sach-chi-phi.md) |
 | Họp Kickoff                  | [../01-PHOI-HOP-SALE-QLDA/hop-kickoff-du-an.md](../01-PHOI-HOP-SALE-QLDA/hop-kickoff-du-an.md) |
 | Quản lý thiết kế            | [quan-ly-thiet-ke.md](./quan-ly-thiet-ke.md)                                    |

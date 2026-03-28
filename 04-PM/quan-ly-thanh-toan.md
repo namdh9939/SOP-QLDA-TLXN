@@ -1,6 +1,6 @@
-# Quản Lý Thanh Toán
+﻿# Quản Lý Thanh Toán
 
-> **Mã SOP:** SOP-03-007
+> **Mã SOP:** SOP-04-007
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -116,5 +116,5 @@ Account theo dõi tổng thanh toán theo HĐ để tránh thanh toán vượt:
 | Tài liệu                       | Link                                                                 |
 | ------------------------------- | -------------------------------------------------------------------- |
 | Quản lý thay đổi/phát sinh     | [quan-ly-thay-doi-phat-sinh.md](./quan-ly-thay-doi-phat-sinh.md)    |
-| Quản lý ngân sách (Account)   | [../02-ACCOUNT/quan-ly-ngan-sach-chi-phi.md](../02-ACCOUNT/quan-ly-ngan-sach-chi-phi.md) |
+| Quản lý ngân sách (Account)   | [../05-ACCOUNT/quan-ly-ngan-sach-chi-phi.md](../05-ACCOUNT/quan-ly-ngan-sach-chi-phi.md) |
 | Nghiệm thu bàn giao            | [nghiem-thu-ban-giao-dong-du-an.md](./nghiem-thu-ban-giao-dong-du-an.md) |

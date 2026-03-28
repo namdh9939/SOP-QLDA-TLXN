@@ -1,6 +1,6 @@
-# Quản Lý Thay Đổi & Phát Sinh
+﻿# Quản Lý Thay Đổi & Phát Sinh
 
-> **Mã SOP:** SOP-03-006
+> **Mã SOP:** SOP-04-006
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -132,5 +132,5 @@ AA duy trì **Change Order Log** trên Larksuite:
 | Tài liệu                       | Link                                                            |
 | ------------------------------- | --------------------------------------------------------------- |
 | Quản lý thi công               | [quan-ly-thi-cong.md](./quan-ly-thi-cong.md)                   |
-| Quản lý ngân sách (Account)   | [../02-ACCOUNT/quan-ly-ngan-sach-chi-phi.md](../02-ACCOUNT/quan-ly-ngan-sach-chi-phi.md) |
+| Quản lý ngân sách (Account)   | [../05-ACCOUNT/quan-ly-ngan-sach-chi-phi.md](../05-ACCOUNT/quan-ly-ngan-sach-chi-phi.md) |
 | Quản lý thanh toán             | [quan-ly-thanh-toan.md](./quan-ly-thanh-toan.md)               |

@@ -1,4 +1,4 @@
-# Project Owner — Vai Trò & Vận Hành Squad
+﻿# Project Owner — Vai Trò & Vận Hành Squad
 
 > **Mã SOP:** SOP-00-PO
 > **Phiên bản:** 1.0
@@ -26,14 +26,15 @@ graph TD
     PM --> AA2["📐 AA #2"]
     PM --> CA1["🔨 CA #1"]
     PM --> CA2["🔨 CA #2"]
+    PM --> CA3["🔨 CA #3"]
 ```
 
-| Thành phần Squad | Số lượng | Báo cáo cho |
-| ----------------- | :------: | ----------- |
-| Sale              | 1        | PO trực tiếp |
-| Account           | 1        | PO trực tiếp |
-| PM                | 1        | PO trực tiếp |
-| AA hoặc CA        | ~4       | PM          |
+| Thành phần Squad | Số lượng | Báo cáo cho  |
+| ------------------ | :---------: | -------------- |
+| Sale               |      1      | PO trực tiếp |
+| Account            |      1      | PO trực tiếp |
+| PM                 |      1      | PO trực tiếp |
+| AA hoặc CA        |     ~5     | PM             |
 
 **Mục tiêu doanh số:** ~500 triệu VND/tháng (~25 công trình đang vận hành đồng thời)
 
@@ -87,13 +88,13 @@ flowchart LR
 
 ### Điều Kiện Chung Để Được Xét Lên PO
 
-| Tiêu chí                                  | Mô tả                                                           |
-| ------------------------------------------ | --------------------------------------------------------------- |
-| Thâm niên                                 | Tối thiểu 2 năm ở vai trò hiện tại (Account hoặc PM)          |
-| Kết quả KPI                              | ≥ 24 tháng liên tiếp đạt mục tiêu KPI                        |
-| Không vi phạm nội quy nghiêm trọng        | Không có vụ tranh chấp KH, không leak thông tin nội bộ         |
-| Năng lực lãnh đạo                         | Chứng minh khả năng đào tạo và dẫn dắt 1-2 nhân viên         |
-| Vượt qua thử thách PO                     | Hoàn thành chương trình thử thách nội bộ do PD/BGĐ thiết lập |
+| Tiêu chí                              | Mô tả                                                                  |
+| --------------------------------------- | ------------------------------------------------------------------------ |
+| Thâm niên                             | Tối thiểu 2 năm ở vai trò hiện tại (Account hoặc PM)             |
+| Kết quả KPI                           | ≥ 24 tháng liên tiếp đạt mục tiêu KPI                            |
+| Không vi phạm nội quy nghiêm trọng | Không có vụ tranh chấp KH, không leak thông tin nội bộ           |
+| Năng lực lãnh đạo                  | Chứng minh khả năng đào tạo và dẫn dắt 1-2 nhân viên          |
+| Vượt qua thử thách PO               | Hoàn thành chương trình thử thách nội bộ do PD/BGĐ thiết lập |
 
 ---
 
@@ -101,25 +102,25 @@ flowchart LR
 
 ### 5.1 Trách Nhiệm
 
-| Nhóm                 | Chi tiết                                                                   |
-| --------------------- | --------------------------------------------------------------------------- |
-| **Doanh số**         | Chịu Target 500M/tháng cho Squad; báo cáo KPI cho PD hàng tháng           |
-| **Nhân sự**          | Tuyển dụng, đào tạo, phân công, đánh giá thưởng phạt trong Squad         |
+| Nhóm                        | Chi tiết                                                                            |
+| ---------------------------- | ------------------------------------------------------------------------------------ |
+| **Doanh số**          | Chịu Target 500M/tháng cho Squad; báo cáo KPI cho PD hàng tháng                |
+| **Nhân sự**          | Tuyển dụng, đào tạo, phân công, đánh giá thưởng phạt trong Squad        |
 | **Vận hành**         | Đảm bảo PM + Account + Sale vận hành đúng SOP; giải quyết Escalation cấp 2 |
-| **Chất lượng DV**    | Chịu trách nhiệm Scorecard trung bình của Squad ≥ ngưỡng cam kết          |
-| **Phát triển Squad** | Onboard nhân sự mới, review SOP nội bộ, đề xuất cải tiến                  |
+| **Chất lượng DV**   | Chịu trách nhiệm Scorecard trung bình của Squad ≥ ngưỡng cam kết            |
+| **Phát triển Squad** | Onboard nhân sự mới, review SOP nội bộ, đề xuất cải tiến                   |
 
 ### 5.2 Quyền Hạn
 
-| Quyền                                     | PO được làm     | Phải xin PD/BGĐ               |
-| ------------------------------------------ | :--------------: | :-----------------------------: |
-| Tuyển/thôi việc trong Squad               | ✅              | Thông báo PD                   |
-| Phê duyệt Change Order 20-50 triệu       | ✅              | —                               |
-| Phê duyệt Change Order > 50 triệu        | —               | ✅ PD                          |
-| Quyết định Escalation cấp 2 (PM→PO)      | ✅              | PD nếu không giải quyết được  |
-| Chấm dứt HĐ nhà thầu trong DA            | ✅ (với PM)     | PD nếu tranh chấp pháp lý     |
-| Điều phối nhân sự giữa DA trong Squad    | ✅              | —                               |
-| Đề xuất KPI/thưởng phạt cho team        | ✅              | PD phê duyệt thưởng vượt mức  |
+| Quyền                                      | PO được làm |          Phải xin PD/BGĐ          |
+| ------------------------------------------- | :-------------: | :---------------------------------: |
+| Tuyển/thôi việc trong Squad              |       ✅       |           Thông báo PD           |
+| Phê duyệt Change Order 20-50 triệu       |       ✅       |                 —                 |
+| Phê duyệt Change Order > 50 triệu        |       —       |                ✅ PD                |
+| Quyết định Escalation cấp 2 (PM→PO)    |       ✅       | PD nếu không giải quyết được |
+| Chấm dứt HĐ nhà thầu trong DA          |  ✅ (với PM)  |    PD nếu tranh chấp pháp lý    |
+| Điều phối nhân sự giữa DA trong Squad |       ✅       |                 —                 |
+| Đề xuất KPI/thưởng phạt cho team      |       ✅       | PD phê duyệt thưởng vượt mức |
 
 ---
 
@@ -141,20 +142,20 @@ flowchart TD
 
 ## 7. Họp Định Kỳ PO
 
-| Họp                           | Tần suất       | Thành phần         | Nội dung                              |
-| ------------------------------ | -------------- | ------------------- | ------------------------------------- |
-| Giao ban Squad                 | Hàng tuần      | PO + PM + Account  | Tiến độ DA, vấn đề, kế hoạch tuần   |
-| Review KPI Squad               | Hàng tháng     | PO + toàn Squad    | Doanh số, Scorecard, Lesson Learned   |
-| Báo cáo PD                    | Hàng tháng     | PO + PD            | KPI Squad, nhân sự, escalation        |
-| Review chiến lược             | Hàng quý       | PO + PD + BGĐ      | Định hướng, target quý mới           |
+| Họp                 | Tần suất   | Thành phần      | Nội dung                                  |
+| -------------------- | ------------ | ----------------- | ------------------------------------------ |
+| Giao ban Squad       | Hàng tuần  | PO + PM + Account | Tiến độ DA, vấn đề, kế hoạch tuần |
+| Review KPI Squad     | Hàng tháng | PO + toàn Squad  | Doanh số, Scorecard, Lesson Learned       |
+| Báo cáo PD         | Hàng tháng | PO + PD           | KPI Squad, nhân sự, escalation           |
+| Review chiến lược | Hàng quý   | PO + PD + BGĐ    | Định hướng, target quý mới           |
 
 ---
 
 ## 8. Tài Liệu Liên Quan
 
-| Tài liệu                  | Link                                                               |
-| -------------------------- | ------------------------------------------------------------------ |
-| Ma trận RACI              | [ma-tran-RACI.md](./ma-tran-RACI.md)                              |
-| Thuật ngữ & Escalation    | [thuat-ngu.md](./thuat-ngu.md)                                    |
-| SOP PM                    | [../03-PM/README.md](../03-PM/README.md)                           |
-| SOP Account               | [../02-ACCOUNT/README.md](../02-ACCOUNT/README.md)                 |
+| Tài liệu               | Link                                            |
+| ------------------------ | ----------------------------------------------- |
+| Ma trận RACI            | [ma-tran-RACI.md](./ma-tran-RACI.md)               |
+| Thuật ngữ & Escalation | [thuat-ngu.md](./thuat-ngu.md)                     |
+| SOP PM                   | [../04-PM/README.md](../04-PM/README.md)           |
+| SOP Account              | [../05-ACCOUNT/README.md](../05-ACCOUNT/README.md) |

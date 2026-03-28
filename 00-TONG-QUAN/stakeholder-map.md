@@ -1,4 +1,4 @@
-# Bản Đồ Các Bên Liên Quan (Stakeholder Map)
+﻿# Bản Đồ Các Bên Liên Quan (Stakeholder Map)
 
 > Tài liệu mô tả tất cả các bên mà bộ phận QLDA tương tác, bao gồm nội bộ công ty và đối tác bên ngoài.
 
@@ -69,7 +69,7 @@ graph TB
 | **KT cần từ QLDA**  | Đề nghị thanh toán (PM duyệt), dữ liệu thu chi (Account nhập)            |
 | **Kênh làm việc**  | Zalo (đề nghị TT), Email (xác nhận)                                         |
 | **Tần suất**        | Hàng tháng (đối soát) + khi phát sinh                                      |
-| **SOP liên quan**    | [07-PHOI-HOP-NOI-BO/phoi-hop-ke-toan.md](../07-PHOI-HOP-NOI-BO/phoi-hop-ke-toan.md) |
+| **SOP liên quan**    | [09-PHOI-HOP-NOI-BO/phoi-hop-ke-toan.md](../09-PHOI-HOP-NOI-BO/phoi-hop-ke-toan.md) |
 
 #### 3. Ban Giám Đốc 👔
 
@@ -79,7 +79,7 @@ graph TB
 | **QLDA cần từ BGĐ** | Phê duyệt nhân sự, ngân sách, quyết định chiến lược                          |
 | **BGĐ cần từ QLDA** | Báo cáo tổng hợp, cảnh báo rủi ro, KPI                                            |
 | **Tần suất**         | Hàng tháng (báo cáo) + khi escalation                                                |
-| **SOP liên quan**     | [07-PHOI-HOP-NOI-BO/bao-cao-ban-giam-doc.md](../07-PHOI-HOP-NOI-BO/bao-cao-ban-giam-doc.md) |
+| **SOP liên quan**     | [09-PHOI-HOP-NOI-BO/bao-cao-ban-giam-doc.md](../09-PHOI-HOP-NOI-BO/bao-cao-ban-giam-doc.md) |
 
 #### 4. HR / Nhân sự 👥
 
@@ -89,7 +89,7 @@ graph TB
 | **QLDA cần từ HR**  | Nhân sự có năng lực phù hợp, hỗ trợ onboarding                |
 | **HR cần từ QLDA**  | Yêu cầu nhân sự, đánh giá KPI nhân viên                       |
 | **Tần suất**        | Khi cần bổ sung nhân sự + đánh giá định kỳ                   |
-| **SOP liên quan**    | [07-PHOI-HOP-NOI-BO/phoi-hop-HR.md](../07-PHOI-HOP-NOI-BO/phoi-hop-HR.md) |
+| **SOP liên quan**    | [09-PHOI-HOP-NOI-BO/phoi-hop-HR.md](../09-PHOI-HOP-NOI-BO/phoi-hop-HR.md) |
 
 #### 5. Marketing 📣
 
@@ -99,7 +99,7 @@ graph TB
 | **QLDA cần từ MKT** | Template báo cáo, quy chuẩn branding                                              |
 | **MKT cần từ QLDA** | Hình ảnh (không chứa thông tin cá nhân KH), feedback KH                       |
 | **Tần suất**        | Hàng tháng hoặc theo mốc quan trọng                                             |
-| **SOP liên quan**    | [07-PHOI-HOP-NOI-BO/phoi-hop-marketing.md](../07-PHOI-HOP-NOI-BO/phoi-hop-marketing.md) |
+| **SOP liên quan**    | [09-PHOI-HOP-NOI-BO/phoi-hop-marketing.md](../09-PHOI-HOP-NOI-BO/phoi-hop-marketing.md) |
 
 #### 6. Đào tạo 📚
 
@@ -131,7 +131,7 @@ graph TB
 | **Vai trò**         | Đối tác thực hiện thiết kế kiến trúc/nội thất       |
 | **Đầu mối QLDA**  | AA (phối hợp kỹ thuật) + PM (hợp đồng)                  |
 | **Kênh liên lạc** | Zalo + Email                                                   |
-| **SOP liên quan**   | [06-PHOI-HOP-DOI-TAC/thiet-ke/](../06-PHOI-HOP-DOI-TAC/thiet-ke/) |
+| **SOP liên quan**   | [08-PHOI-HOP-DOI-TAC/thiet-ke/](../08-PHOI-HOP-DOI-TAC/thiet-ke/) |
 
 #### 3. Nhà thầu chính 🔨
 
@@ -140,7 +140,7 @@ graph TB
 | **Vai trò**         | Đơn vị thi công chính, ký HĐ trực tiếp với KH        |
 | **Đầu mối QLDA**  | CA (giám sát) + PM (điều phối)                            |
 | **Kênh liên lạc** | HBSS (chính thức), Zalo (hàng ngày)                        |
-| **SOP liên quan**   | [06-PHOI-HOP-DOI-TAC/nha-thau/](../06-PHOI-HOP-DOI-TAC/nha-thau/) |
+| **SOP liên quan**   | [08-PHOI-HOP-DOI-TAC/nha-thau/](../08-PHOI-HOP-DOI-TAC/nha-thau/) |
 
 #### 4. Nhà thầu phụ 🔧
 
@@ -149,7 +149,7 @@ graph TB
 | **Vai trò**        | Thi công chuyên ngành (điện, nước, PCCC, nội thất...)                                                         |
 | **Đầu mối QLDA** | PM + CA (điều phối)                                                                                                 |
 | **Nguyên tắc**    | Lựa chọn theo quy trình minh bạch, có thể từ mạng lưới đối tác NCM                                        |
-| **SOP liên quan**  | [06-PHOI-HOP-DOI-TAC/nha-thau/lua-chon-nha-thau-phu-NCC.md](../06-PHOI-HOP-DOI-TAC/nha-thau/lua-chon-nha-thau-phu-NCC.md) |
+| **SOP liên quan**  | [08-PHOI-HOP-DOI-TAC/nha-thau/lua-chon-nha-thau-phu-NCC.md](../08-PHOI-HOP-DOI-TAC/nha-thau/lua-chon-nha-thau-phu-NCC.md) |
 
 #### 5. Nhà cung cấp (Vật tư, Vật liệu) 📦
 
@@ -158,7 +158,7 @@ graph TB
 | **Vai trò**        | Cung cấp vật liệu xây dựng, thiết bị                                   |
 | **Đầu mối QLDA** | PM (lựa chọn) + Account (kết nối từ mạng lưới NCM)                    |
 | **Nguyên tắc**    | Giá niêm yết công khai, ưu đãi KH NCM minh bạch (theo HĐ Đối tác) |
-| **SOP liên quan**  | [06-PHOI-HOP-DOI-TAC/nha-cung-cap/](../06-PHOI-HOP-DOI-TAC/nha-cung-cap/)        |
+| **SOP liên quan**  | [08-PHOI-HOP-DOI-TAC/nha-cung-cap/](../08-PHOI-HOP-DOI-TAC/nha-cung-cap/)        |
 
 #### 6. Cơ quan chức năng 🏛️
 
@@ -167,4 +167,4 @@ graph TB
 | **Vai trò**        | Cấp giấy phép xây dựng, nghiệm thu PCCC, kiểm tra an toàn                |
 | **Đầu mối QLDA** | PM + AA (hồ sơ)                                                                |
 | **Lưu ý**         | Thủ tục pháp lý là nghĩa vụ của KH, QLDA chỉ tư vấn & hỗ trợ        |
-| **SOP liên quan**  | [06-PHOI-HOP-DOI-TAC/co-quan-chuc-nang/](../06-PHOI-HOP-DOI-TAC/co-quan-chuc-nang/) |
+| **SOP liên quan**  | [08-PHOI-HOP-DOI-TAC/co-quan-chuc-nang/](../08-PHOI-HOP-DOI-TAC/co-quan-chuc-nang/) |

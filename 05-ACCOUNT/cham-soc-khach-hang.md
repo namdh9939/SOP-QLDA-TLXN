@@ -1,6 +1,6 @@
-# Quy Trình Chăm Sóc Khách Hàng Xuyên Suốt
+﻿# Quy Trình Chăm Sóc Khách Hàng Xuyên Suốt
 
-> **Mã SOP:** SOP-02-002
+> **Mã SOP:** SOP-05-002
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -150,7 +150,7 @@ flowchart TD
 | 1      | Lắng nghe lý do từ KH, ghi nhận cụ thể             |
 | 2      | Báo cáo PM + BGĐ (không tự quyết)                  |
 | 3      | BGĐ đánh giá và quyết định                       |
-| 4      | Nếu thay → Thực hiện hand-off theo SOP-02-001 mục 6 |
+| 4      | Nếu thay → Thực hiện hand-off theo SOP-05-001 mục 6 |
 | 5      | Theo dõi KH 2 tuần sau khi thay để đảm bảo ổn    |
 
 ---

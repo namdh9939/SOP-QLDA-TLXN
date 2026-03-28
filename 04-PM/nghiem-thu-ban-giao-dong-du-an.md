@@ -1,6 +1,6 @@
-# Nghiệm Thu, Bàn Giao & Đóng Dự Án
+﻿# Nghiệm Thu, Bàn Giao & Đóng Dự Án
 
-> **Mã SOP:** SOP-03-009
+> **Mã SOP:** SOP-04-009
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-27
 > **Áp dụng:** Tất cả gói dịch vụ (QTDA / TLXN / TLXN TX)
@@ -184,5 +184,5 @@ PM tổ chức họp nội bộ (PM + AA + CA + Account) trong 2 tuần sau bàn
 | Tài liệu                       | Link                                                              |
 | ------------------------------- | ----------------------------------------------------------------- |
 | Báo cáo & Review định kỳ      | [bao-cao-review-dinh-ky.md](./bao-cao-review-dinh-ky.md)         |
-| Bàn giao & Bảo hành (Account) | [../02-ACCOUNT/ban-giao-bao-hanh.md](../02-ACCOUNT/ban-giao-bao-hanh.md) |
-| Scorecard dịch vụ (Account)   | [../02-ACCOUNT/scorecard-danh-gia-dich-vu.md](../02-ACCOUNT/scorecard-danh-gia-dich-vu.md) |
+| Bàn giao & Bảo hành (Account) | [../05-ACCOUNT/ban-giao-bao-hanh.md](../05-ACCOUNT/ban-giao-bao-hanh.md) |
+| Scorecard dịch vụ (Account)   | [../05-ACCOUNT/scorecard-danh-gia-dich-vu.md](../05-ACCOUNT/scorecard-danh-gia-dich-vu.md) |
