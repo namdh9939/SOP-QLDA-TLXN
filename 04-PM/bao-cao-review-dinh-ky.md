@@ -1,4 +1,4 @@
-﻿# Báo Cáo & Review Định Kỳ
+# Báo Cáo & Review Định Kỳ
 
 > **Mã SOP:** SOP-04-008
 > **Phiên bản:** 1.0
@@ -12,11 +12,11 @@
 Đảm bảo KH được cập nhật **đúng hạn, đầy đủ và chuyên nghiệp**. PM chịu trách nhiệm **duyệt nội dung** tất cả báo cáo trước khi gửi KH. CA/AA là người soạn và gửi.
 
 > **Phân chia trách nhiệm rõ ràng:**
-> - **CA:** Cung cấp dữ liệu thi công thực tế từ công trường
-> - **AA:** Soạn báo cáo tuần/tháng theo template chuẩn
-> - **PM:** Duyệt nội dung, chỉnh sửa nếu cần và ký duyệt
-> - **CA/AA:** Gửi báo cáo đến KH sau khi PM duyệt
-> - **Account:** Cung cấp dữ liệu chi phí, Ticket, Scorecard để AA bổ sung vào báo cáo tháng
+> - **AA:** Cung cấp dữ liệu tiến độ phần Thiết kế
+> - **CA:** Cung cấp dữ liệu tiến độ phần Thi công
+> - **Account:** Nhập liệu dữ liệu phần Ngân sách / Thu chi
+> - **PM:** Duyệt nội dung cả 3 phần và **Merge thành 1 báo cáo hoàn chỉnh**
+> - **CA/AA:** Gửi bản báo cáo hoàn chỉnh đến KH sau khi PM duyệt
 
 ---
 
@@ -35,12 +35,12 @@
 
 ```mermaid
 flowchart LR
-    A["CA ghi nhận<br/>dữ liệu công trường<br/>(Thứ 5-6)"] --> B["AA soạn<br/>báo cáo tuần<br/>(Thứ 6-7)"]
-    B --> C["PM review<br/>& duyệt<br/>(CN-Thứ 2 sáng)"]
+    A["CA lập khối TC<br/>Account nhập Ngân sách<br/>AA lập khối TK"] --> B["Gửi trình PM<br/>(Thứ 6-7)"]
+    B --> C["PM review<br/>& Merge báo cáo<br/>(CN-Thứ 2 sáng)"]
     C --> D{Cần chỉnh sửa?}
-    D -->|Có| E["AA chỉnh sửa<br/>theo ý kiến PM"]
+    D -->|Có| E["Các bên chỉnh sửa<br/>theo ý kiến PM"]
     E --> C
-    D -->|Không| F["CA/AA gửi<br/>cho KH<br/>(Trước 12h Thứ 2)"]
+    D -->|Không| F["CA/AA gửi<br/>bản ghép cho KH<br/>(Trước 12h Thứ 2)"]
 ```
 
 ### Template Báo Cáo Tuần:

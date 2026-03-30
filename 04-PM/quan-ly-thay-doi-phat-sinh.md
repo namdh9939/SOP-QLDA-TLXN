@@ -1,4 +1,4 @@
-﻿# Quản Lý Thay Đổi & Phát Sinh
+# Quản Lý Thay Đổi & Phát Sinh
 
 > **Mã SOP:** SOP-04-006
 > **Phiên bản:** 1.0
@@ -94,13 +94,12 @@ PM: ________ Ngày: ________
 
 ### 4.3 Phân Quyền Phê Duyệt Change Order
 
-| Giá trị phát sinh      | KH phê duyệt | PM phê duyệt | **PO** phê duyệt | PD/BGĐ phê duyệt |
-| ----------------------- | :----------: | :----------: | :----------------: | :--------------: |
-| ≤20 triệu đồng         | ✅           | ✅           | Thông báo         | —               |
-| 20 - 50 triệu đồng    | ✅           | Đề nghị    | **✅ BẮt buộc** | —               |
-| > 50 triệu đồng       | ✅           | Đề nghị    | Đề nghị         | **✅ BẮt buộc** |
+| Giá trị phát sinh      | KH phê duyệt | PM phê duyệt | **PO** phê duyệt (Duyệt Cuối) |
+| ----------------------- | :----------: | :----------: | :----------------: |
+| ≤20 triệu đồng         | ✅           | ✅           | Thông báo         |
+| >20 triệu đồng         | ✅           | Đề nghị    | **✅ BẮt buộc** |
 
-> ⚠️ **Lưu ý:** Dù giá trị bao nhiêu, **KH luôn phải ký phê duyệt** trước khi thực hiện.
+> ⚠️ **Lưu ý:** PO là người có quyền phê duyệt cuối cùng ở mọi mức giá (BGĐ không can thiệp). Tuy nhiên luôn phải có KH ký phê duyệt trước khi thực hiện.
 
 ### 4.4 Nguyên Tắc Phân Chia Chi Phí
 

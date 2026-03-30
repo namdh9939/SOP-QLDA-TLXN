@@ -95,7 +95,7 @@ mindmap
 | **Ngân sách**          | Theo dõi & cung cấp dữ liệu (**R**)        | Phê duyệt & kiểm soát tổng (**A**)    |
 | **Quyết định kỹ thuật** | Không quyết định                         | Quyết định & chịu trách nhiệm         |
 | **Ticket**             | Tiếp nhận & phân loại (**R**)            | Xử lý kỹ thuật (**C**)                |
-| **Báo cáo tuần**      | Phối hợp cung cấp thông tin (**I**)        | CA/AA lập, PM duyệt (**A**)             |
+| **Báo cáo tuần**      | Trực tiếp nhập liệu Ngân sách/Thu chi (**R**) | Lập thành 1 báo cáo gửi KH (AA/CA gửi) |
 | **Vật liệu/TB**       | Tư vấn & kết nối NCC                     | Góp ý kỹ thuật                        |
 | **Thầu phụ/NCC**      | Hỗ trợ KH lựa chọn                       | Quyết định kỹ thuật                   |
 | **Scorecard**          | Thu thập & quản lý (**R**)               | Được thông báo (**I**)                |

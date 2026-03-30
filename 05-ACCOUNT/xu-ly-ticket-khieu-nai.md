@@ -1,4 +1,4 @@
-﻿# Xử Lý Ticket & Khiếu Nại Từ KH
+# Xử Lý Ticket & Khiếu Nại Từ KH
 
 > **Mã SOP:** SOP-05-007
 > **Phiên bản:** 1.0
@@ -94,14 +94,14 @@ flowchart TD
 flowchart TD
     A["Ticket quá SLA<br/>hoặc KH không hài lòng"] --> B{"Mức Escalation?"}
     B -->|Cấp 1| C["Account → PM<br/>Họp xử lý nhanh"]
-    B -->|Cấp 2| D["PM → Director<br/>Can thiệp trực tiếp"]
-    B -->|Cấp 3| E["Director → BGĐ<br/>Biên bản + xử lý HĐ"]
+    B -->|Cấp 2| D["PM → PO<br/>Can thiệp trực tiếp"]
+    B -->|Cấp 3| E["PO → PD/BGĐ<br/>Biên bản + xử lý HĐ"]
 ```
 
 | Cấp   | Điều kiện                                        | Người xử lý    | Thời hạn    |
 | ------ | ------------------------------------------------- | --------------- | ----------- |
 | Cấp 1 | Quá SLA hoặc KH phản ánh lần 2                   | PM              | 24h         |
-| Cấp 2 | PM không giải quyết được hoặc KH bức xúc nghiêm trọng | Director     | 48h         |
+| Cấp 2 | PM không giải quyết được hoặc KH bức xúc nghiêm trọng | PO     | 48h         |
 | Cấp 3 | Ảnh hưởng HĐ hoặc KH đe dọa pháp lý              | BGĐ            | Theo tình huống |
 
 ---

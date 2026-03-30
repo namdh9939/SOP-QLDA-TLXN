@@ -1,6 +1,6 @@
 # Hỗ Trợ Giám Sát Hoàn Thiện & Nội Thất
 
-> **Mã SOP:** SOP-06-006
+> **Mã SOP:** SOP-06-005
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-28
 

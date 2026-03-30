@@ -26,8 +26,8 @@ mindmap
       Kiểm tra sơ bộ bản vẽ
       Theo dõi tiến độ TK
     2. Báo Cáo Định Kỳ
-      Soạn báo cáo tuần (GĐ Thiết kế)
-      Trình PM duyệt
+      Soạn tiến độ báo cáo tuần (GĐ Thiết kế)
+      Chờ PM merge báo cáo tổng
       Gửi báo cáo cho KH
     3. Quản Lý Hồ Sơ
       Lưu trữ hồ sơ TK
@@ -105,9 +105,9 @@ mindmap
 | **Thứ 2**     | Gửi báo cáo tuần cho KH (sau khi PM duyệt)                            |
 | **Thứ 3-4**   | Phối hợp ĐV TK; kiểm tra bản vẽ; cập nhật hồ sơ                  |
 | **Thứ 5**     | Ghi biên bản họp giao ban (nếu có); nhận dữ liệu từ CA            |
-| **Thứ 6**     | Nhận dữ liệu cuối tuần từ CA; bắt đầu soạn báo cáo tuần       |
-| **Thứ 7**     | Hoàn thiện báo cáo tuần → Gửi PM duyệt                             |
-| **Chủ nhật** | Chỉnh sửa theo ý kiến PM (nếu có) → Sẵn sàng gửi KH sáng Thứ 2 |
+| **Thứ 6**     | Nhận dữ liệu cuối tuần từ CA; soạn phần khối lượng TK         |
+| **Thứ 7**     | Gửi phần TK và chờ PM merge báo cáo tổng                             |
+| **Chủ Nhật** | Cùng PM chỉnh sửa (nếu có) → Nhận lại bản báo cáo hoàn chỉnh |
 
 ---
 

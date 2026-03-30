@@ -1,6 +1,6 @@
 # Vai Trò, Chức Năng & KPI của Project Owner
 
-> **Mã SOP:** SOP-05-001
+> **Mã SOP:** SOP-02-001
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-28
 
@@ -61,8 +61,8 @@ graph TD
 
 | Đối tác | Lý do PO chọn | Vai trò Account |
 |---------|---------------|-----------------|
-| **Đơn vị Thiết kế** | Quyết định thành công về mặt kiến trúc/thẩm mỹ | Chỉ phối hợp, hỗ trợ PO. **KHÔNG được tham gia quyết định** |
-| **Nhà thầu thi công chính** | Quyết định thành công về chất lượng xây dựng | Chỉ phối hợp, hỗ trợ PO. **KHÔNG được tham gia quyết định** |
+| **Đơn vị Thiết kế** | Quyết định thành công về mặt kiến trúc/thẩm mỹ | Hỗ trợ (Support) quy trình/thủ tục. **PO là người quyết định cuối cùng.** |
+| **Nhà thầu thi công chính** | Quyết định thành công về chất lượng xây dựng | Hỗ trợ (Support) quy trình/thủ tục. **PO là người quyết định cuối cùng.** |
 
 #### Các Đối Tác Khác (Account Giới Thiệu → PO Duyệt)
 

@@ -51,8 +51,8 @@ mindmap
 - Thực hiện thông báo kế hoạch này cho bộ phận **Account** (tối thiểu trước 5-7 ngày) nhằm đảm bảo quá trình làm việc với Chủ đầu tư, công tác mua sắm và ký kết hợp đồng phụ diễn ra đúng hạn, tránh tình trạng gián đoạn thi công.
 
 ### 2.4 Báo Cáo Định Kỳ & Quản Trị Rủi Ro
-- Thực hiện lập **Báo cáo tiến độ tuần** (Giai đoạn Thi công) vào mỗi Thứ 6.
-- Toàn bộ báo cáo gửi Khách hàng phải trải qua bước kiểm duyệt và phê duyệt của PM.
+- Thực hiện lập **thông tin Tiến độ tuần phần Thi công** vào mỗi Thứ 6.
+- Toàn bộ báo cáo gửi Khách hàng phải trải qua bước kiểm duyệt của PM. PM sẽ merge thông tin Thi công (CA) + Tài chính (Account) thành 1 bản thống nhất để CA gửi KH.
 - Lập tức báo cáo PM đối với mọi rủi ro, sự cố phát sinh tại dự án (tai nạn, vi phạm an toàn, rủi ro pháp lý với cư dân xung quanh, thiệt hại vật tư). Phối hợp cung cấp hồ sơ sự việc để Account thực hiện công tác chăm sóc Khách hàng (Ticket) khi có yêu cầu.
 
 ---

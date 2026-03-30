@@ -39,8 +39,8 @@
 | Hoạt động                          | Sale |   Account   |     PM     |     AA     | CA | **PO** | BGĐ |
 | ------------------------------------- | :--: | :---------: | :---------: | :---------: | :-: | :----: | :--: |
 | Tổng hợp yêu cầu TK               |  —  | **S** |      C      | **R** | — |  I  |  —  |
-| Lựa chọn đơn vị TK               |  —  | S (phối hợp) | **R** (sơ tuyển KT) | **S** | — | **A** (chọn) |  —  |
-| Ký HĐ thiết kế                    |  —  |      I      | **R** | **S** | — |  A  |  —  |
+| Lựa chọn đơn vị TK               |  —  | **S** (thủ tục) | **R** (sơ tuyển KT) | **S** | — | **A** (chọn) |  —  |
+| Ký HĐ thiết kế                    |  —  |      **S**      | **R** | **S** | — |  A  |  —  |
 | Kiểm tra tiến độ thiết kế        |  —  |      I      |   **S**   | **R** | — |  I  |  —  |
 | Phối hợp thực hiện TK             |  —  |      I      | **A** | **R** | — |  I  |  —  |
 | Góp ý & kiểm tra TK                |  —  |      I      |      C      | **R** | — |  I  |  —  |
@@ -57,10 +57,10 @@
 | Hoạt động                                   | Sale | Account |     PM     |     AA     |     CA     | **PO** | BGĐ |
 | ---------------------------------------------- | :--: | :-----: | :---------: | :---------: | :---------: | :----: | :--: |
 | Phát hành thư mời báo giá                |  —  |   —   | **R** |     —     |     —     |  A  |  —  |
-| Sơ tuyển nhà thầu                          |  —  | S (phối hợp) | **R** |     —     |      C      |  A  |  —  |
-| Đánh giá & lựa chọn NT chính              |  —  | S (phối hợp) | **R** (KT) |     —     |      C      | **A** (chọn) |  —  |
-| Đàm phán HĐ thi công                      |  —  | S (phối hợp) | **R** |     —     |     —     | **A** |  —  |
-| Đề xuất NTP/NCC (Account giới thiệu)       |  —  | **R** (trình PO) | C (KT) |     —     |     —     | **A** (duyệt) |  —  |
+| Sơ tuyển nhà thầu                          |  —  | **S** (phối hợp) | **R** |     —     |      C      |  A  |  —  |
+| Đánh giá & lựa chọn NT chính              |  —  | **S** (phối hợp) | **R** (KT) |     —     |      C      | **A** (chọn) |  —  |
+| Đàm phán HĐ thi công                      |  —  | **S** (phối hợp) | **R** |     —     |     —     | **A** |  —  |
+| Đề xuất NTP/NCC (Account giới thiệu)       |  —  | **S** (trình PO) | C (KT) |     —     |     —     | **A** (duyệt) |  —  |
 | Thống nhất tiêu chuẩn                      |  —  |   —   | **R** |     —     | **S** |  A  |  —  |
 | Kiểm tra tiến độ thi công nhà thầu lập |  —  |    I    | **R** |     —     | **S** |  I  |  —  |
 
@@ -72,11 +72,12 @@
 | Kiểm tra CL hạng mục         |  —  |     —     | **A** |     —     | **R** |      I      |         —         |
 | Nghiệm thu hạng mục          |  —  |      I      | **A** |     —     | **R** |      I      |         —         |
 | Quản lý tiến độ            |  —  |      I      | **R** | **S** | **S** | **A** |         I         |
-| Nhập liệu ngân sách, thu chi thực tế  |  —  | **R** | **A** |     —     |     —     | **A** |         I         |
-| Đề nghị thanh toán NT       |  —  |     —     | **R** | **S** |     —     | **A** |         C         |
-| Quản lý thay đổi/phát sinh |  —  |      I      | **R** | **S** | **S** | **A** | **R** (>20M) |
+| Nhập liệu ngân sách, thu chi thực tế  |  —  | **R** | **A** |     —     |     —     | **I** |         —         |
+| Đề nghị thanh toán NT       |  —  |     —     | **R** | **S** |     —     | **A** |         —         |
+| Quản lý thay đổi/phát sinh |  —  |      I      | **R** | **S** | **S** | **A** (duyệt tất cả)|         —         |
 | Họp giao ban công trường    |  —  |     —     | **R** |     —     | **R** |      I      |         —         |
-| Báo cáo tuần (thi công)      |  —  |      I      | **A** |     —     | **R** |      I      |         I         |
+| Lập báo cáo tiến độ tuần tổng hợp    |  —  | **R** (Phần Ngân sách) | **A** (Duyệt) | **R** (Phần TK) | **R** (Phần TC) |      I      |         —         |
+| Gửi báo cáo tiến độ tuần cho KH      |  —  |     —     | **A** | **R** (GĐ TK) | **R** (GĐ TC) |      I      |         —         |
 | Xử lý Ticket KH               |  —  | **R** |      C      | **S** | **S** |      A      |         —         |
 | Xử lý sự cố công trường  |  —  |      I      | **R** |     —     | **R** | **A** |         I         |
 | Điều phối nhà thầu phụ    |  —  |     —     | **R** |     —     | **S** |      I      |         —         |
@@ -114,7 +115,7 @@
 
 ### Account — Quản Lý Quan Hệ KH 🤝
 
-- **Trách nhiệm chính:** Đầu mối KH, chăm sóc thường trực; là hậu phương theo dõi chất lượng vận hành nội bộ. Nếu PM/AA/CA làm không tốt -> báo cáo PO. Account không trực tiếp làm báo cáo định kỳ cho KH.
+- **Trách nhiệm chính:** Đầu mối KH, chăm sóc thường trực; là hậu phương theo dõi chất lượng vận hành nội bộ. Nếu PM/AA/CA làm không tốt -> báo cáo PO. Trong Báo cáo định kỳ sẽ chịu trách nhiệm nhập liệu mục Ngân sách/Chi phí.
 - **Accountable cho:** Trải nghiệm & sự hài lòng của KH
 - **Quyền hạn:** Tiếp nhận Ticket, giao tiếp trực tiếp KH
 - **Báo cáo cho:** **PO**

@@ -1,6 +1,6 @@
-﻿# Vai Trò, Chức Năng & KPI của Project Director
+# Vai Trò, Chức Năng & KPI của Project Director
 
-> **Mã SOP:** SOP-04-001
+> **Mã SOP:** SOP-03-001
 > **Phiên bản:** 1.0
 > **Ngày hiệu lực:** 2026-03-28
 
@@ -51,7 +51,6 @@ graph TD
 
 | Quyền | PD được làm | Phải xin BGĐ |
 | ----- | :---------: | :-----------: |
-| Phê duyệt Change Order > 50 triệu | ✅ | BGĐ nếu > 100 triệu |
 | Xử lý Escalation cấp 3 | ✅ | BGĐ nếu pháp lý |
 | Phê duyệt thưởng vượt mức cho PO | ✅ | — |
 | Bổ nhiệm/miễn nhiệm PO | Đề xuất | ✅ BGĐ phê duyệt |
