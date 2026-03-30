@@ -1,4 +1,4 @@
-﻿# Vai Trò, Chức Năng & KPI của Account Manager
+# Vai Trò, Chức Năng & KPI của Account Manager
 
 > **Mã SOP:** SOP-05-001
 > **Phiên bản:** 1.0
@@ -11,8 +11,7 @@
 
 Account Manager (Account) là **đầu mối quan hệ khách hàng** trong suốt vòng đời dự án, từ khi tiếp nhận KH ở buổi Kickoff cho đến khi đóng dự án và hết thời hạn bảo hành.
 
-> **Sứ mệnh:** Đảm bảo trải nghiệm & sự hài lòng của khách hàng đạt mức cao nhất, đồng thời hỗ trợ KH kiểm soát chi phí và đưa ra quyết định tốt nhất về vật liệu, thiết bị, nhà thầu phụ.
-
+> **Sứ mệnh:** Account là hậu phương vững chắc chăm sóc KH. Account thu thập Ticket, kiểm soát rủi ro cảm xúc và báo cáo trực tiếp cho PO nếu PM, AA, CA giải quyết vấn đề không tốt. Account KHÔNG làm báo cáo định kỳ cho Chủ nhà.
 ---
 
 ## 2. Năm Nhóm Chức Năng Chính
@@ -46,16 +45,17 @@ mindmap
 ### 2.1 Chăm sóc Quan hệ Khách hàng (Customer Success)
 
 - Là **người KH liên hệ đầu tiên** khi có bất kỳ vấn đề nào
-- Chủ động cập nhật tiến độ, không đợi KH hỏi
-- Duy trì liên lạc thường xuyên: tối thiểu 1 lần/tuần (Phase 2-4) + cập nhật khi có sự kiện quan trọng
-- Quản lý kỳ vọng KH, đảm bảo KH hiểu rõ phạm vi dịch vụ
+- Là **hậu phương** theo dõi sự hài lòng của KH, không trực tiếp gửi báo cáo định kỳ.
+- Chủ động nắm bắt cảm xúc KH, xử lý các sự cố/khiếu nại (Ticket).
+- Nếu phát hiện PM, AA, CA làm việc không tốt -> Account thu thập thông tin và **mách cho PO** để PO có chế tài xử lý.
 - Báo cáo trực tiếp cho **PO (Project Owner)**
 
 > 👉 Chi tiết: [cham-soc-khach-hang.md](./cham-soc-khach-hang.md)
 
 ### 2.2 Kiểm soát Ngân sách & Chi phí
 
-- **Responsible (R)** cho theo dõi ngân sách tổng thể dự án
+- **Hỗ trợ (S)** PM trong việc lập Khái toán Ngân sách đầu dự án để nắm cấu trúc chi phí, từ đó quản lý và tư vấn vật liệu sau này.
+- **Trực tiếp nhập liệu thu chi hàng tuần** cho dự án lên phần mềm quản lý, từ đó đối soát dòng tiền và giúp chủ nhà bớt gánh nặng quản lý sổ sách thi công.
 - Đối soát thu phí dịch vụ trợ lý hàng tháng với Kế toán công ty
 - Cảnh báo khi chi phí tiến gần hoặc vượt ngân sách KH
 - Cung cấp dữ liệu chi phí rõ ràng để CA/AA đưa vào báo cáo KH
@@ -80,7 +80,7 @@ mindmap
 
 ### 2.5 Giao tiếp & Hỗ trợ KH
 
-- Tiếp nhận & xử lý Ticket từ KH
+- Tiếp nhận & xử lý Ticket, sự cố, khiếu nại phát sinh từ mọi bên trong dự án (KH, đối tác, thầu phụ). Ticket không dùng cho các thắc mắc thông thường.
 - Quản lý Scorecard đánh giá dịch vụ hàng tháng
 - Duy trì liên lạc thường xuyên với KH
 - Phối hợp cung cấp thông tin cho CA/AA để lập báo cáo

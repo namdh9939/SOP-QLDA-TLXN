@@ -1,4 +1,4 @@
-﻿# Flow Tổng Thể Dự Án — End-to-End
+# Flow Tổng Thể Dự Án — End-to-End
 
 > Tài liệu mô tả toàn bộ vòng đời một dự án từ khi bộ phận Sale tiếp cận khách hàng cho đến khi đóng dự án và bàn giao bảo hành.
 
@@ -20,7 +20,7 @@ flowchart TD
         K2A["Phỏng vấn làm rõ nhu cầu<br/>(Dựa trên Form Requirement)"]
         K3["PM tiếp nhận dự án"]
         K4["PM bổ nhiệm AA & CA"]
-        K5["Setup dự án trên Larksuite/HBSS"]
+        K5["PM setup dự án trên Larksuite/HBSS"]
         K1 --> K2 --> K2A --> K3 --> K4 --> K5
     end
 
@@ -103,7 +103,7 @@ flowchart TD
 | 1.5    | PM lập Khái toán Ngân sách Xây nhà       | PM                       | 1- 2 ngày sau Kickoff | Bảng ngân sách đầu tư tổng thể (3 phần: Trước khởi công, Trong khi xây nhà, Sau xây nhà) |
 | 1.6    | PM lên kế hoạch tổng thể dự án           | PM                       | 3 ngày sau Kickoff    | Kế hoạch dự án                                                                                        |
 | 1.7    | PM bổ nhiệm AA & CA phù hợp                 | PM                       | Ngay sau Kickoff       | Thông báo phân công                                                                                   |
-| 1.8    | Setup dự án trên hệ thống                  | AA                       | 1 ngày                | Folder Larksuite, nhóm Zalo, HBSS                                                                        |
+| 1.8    | Setup dự án trên hệ thống                  | PM                       | 1 ngày                | Folder Larksuite, nhóm Zalo, HBSS                                                                        |
 
 > **Nội dung Kickoff bắt buộc:**
 >

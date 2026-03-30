@@ -1,4 +1,4 @@
-﻿# Vai Trò, Chức Năng & KPI của Project Manager
+# Vai Trò, Chức Năng & KPI của Project Manager
 
 > **Mã SOP:** SOP-04-001
 > **Phiên bản:** 1.0
@@ -41,7 +41,7 @@ mindmap
       Xử lý thay đổi/phát sinh
       Quản lý thanh toán
     5. Báo Cáo & Closure
-      Duyệt báo cáo tuần/tháng
+      Duyệt 100% báo cáo tuần của AA (TK) & CA (TC)
       Nghiệm thu & bàn giao
       Lesson Learned
       Đóng dự án
@@ -49,10 +49,11 @@ mindmap
 
 ### 2.1 Lập Kế Hoạch Dự Án
 
-- Lập **Khái Toán Ngân Sách Xây Nhà** trong 1-2 ngày sau Kickoff
+- Lập **Khái Toán Ngân Sách Xây Nhà** trong 1-2 ngày sau Kickoff (Account tham gia hỗ trợ để nắm luồng tiền tư vấn sau này)
 - Lập **Master Schedule** (tiến độ tổng thể) với các milestone rõ ràng
 - Bổ nhiệm AA và CA phù hợp với quy mô và loại hình dự án
-- Setup dự án trên Larksuite, HBSS
+- Setup dự án trên Larksuite, HBSS. Thiết lập cấu trúc thư mục từ đầu dự án để các bộ phận khác có nơi upload tài liệu.
+- Định kỳ kiểm soát tính chính xác, đầy đủ của các báo cáo, biên bản, hồ sơ do AA, CA, Account cập nhật lên hệ thống.
 
 > 👉 Chi tiết: [lap-ke-hoach-du-an.md](./lap-ke-hoach-du-an.md)
 

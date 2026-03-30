@@ -1,4 +1,4 @@
-﻿# Quản Lý Thi Công
+# Quản Lý Thi Công
 
 > **Mã SOP:** SOP-04-005
 > **Phiên bản:** 1.0
@@ -132,10 +132,10 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-    A["Phát hiện sự cố P1"] --> B["CA: Dừng thi công<br/>ngay lập tức"]
-    B --> C["CA báo PM trong 15 phút"]
+    A["Phát hiện sự cố P1 /<br/>Lỗi thi công nghiêm trọng"] --> B["CA: Trực tiếp đình chỉ thi công<br/>ngay lập tức tại hiện trường"]
+    B --> C["CA lập biên bản (bằng Timemark)<br/>& báo PM trong 15 phút"]
     C --> D["PM báo **PO** + Account<br/>trong 30 phút"]
-    D --> E["PM ra hiện trường<br/>đánh giá (TLXN TX: CA video call)"]
+    D --> E["PM ra hiện trường đánh giá<br/>(Duyệt phương án xử lý cuối cùng)"]
     E --> F["PM + **PO** quyết định<br/>phương án xử lý (PD nếu nghiêm trọng)"]
     F --> G["Account thông báo KH<br/>(sau khi có phương án)"]
     G --> H["Lập biên bản sự cố<br/>& phương án khắc phục"]

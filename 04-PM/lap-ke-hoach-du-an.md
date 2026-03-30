@@ -1,4 +1,4 @@
-﻿# Lập Kế Hoạch Dự Án
+# Lập Kế Hoạch Dự Án
 
 > **Mã SOP:** SOP-04-002
 > **Phiên bản:** 1.0
@@ -21,7 +21,7 @@ flowchart TD
     B --> C["Trình bày ngân sách<br/>cho KH xác nhận"]
     C --> D["PM lập Master Schedule<br/>(Tiến độ tổng thể)"]
     D --> E["PM bổ nhiệm AA & CA<br/>phù hợp dự án"]
-    E --> F["AA setup dự án<br/>trên Larksuite & HBSS"]
+    E --> F["PM setup dự án<br/>trên Larksuite & HBSS"]
     F --> G["Kick-off nội bộ<br/>(PM + AA + CA)"]
     G --> H["Bắt đầu Phase 2: Thiết Kế"]
 ```
@@ -122,12 +122,14 @@ Agenda bắt buộc:
 
 ---
 
-### 3.5 Setup Dự Án Trên Hệ Thống (AA thực hiện)
+### 3.5 Setup Dự Án Trên Hệ Thống (PM thực hiện)
+
+Ngay sau khi Kickoff, PM là người trực tiếp xây dựng cấu trúc hệ thống lưu trữ ban đầu để các bộ phận khác (AA, CA, Account) có một nơi chuẩn xác để upload/cập nhật biên bản, hồ sơ. PM có chức năng định kỳ kiểm tra (Audit) mức độ đầy đủ của những dữ liệu này.
 
 | Hạng mục              | Công cụ         | Nội dung                                               |
 | ---------------------- | --------------- | ------------------------------------------------------- |
-| Folder hồ sơ dự án   | Larksuite Docs  | Cấu trúc folder chuẩn theo template                   |
-| Bảng theo dõi ngân sách | Larksuite Sheet | Khái toán + theo dõi chi phí thực tế                  |
+| Folder hồ sơ dự án   | Larksuite Docs  | PM tạo cấu trúc folder chuẩn theo template. Sau đó báo cho AA/CA/Account vào upload tài liệu. |
+| Bảng theo dõi ngân sách | Larksuite Sheet | Bảng Khái toán + base để Account theo dõi chi phí thực tế. |
 | Master Schedule        | Larksuite/Excel | Timeline milestone toàn dự án                          |
 | HBSS (nếu dùng)       | HBSS            | Tạo tài khoản KH, nhà thầu; setup checklist 69 CV     |
 | Nhóm Zalo nội bộ      | Zalo            | PM + AA + CA (tách riêng với nhóm KH)                  |

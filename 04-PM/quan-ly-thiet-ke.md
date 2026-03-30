@@ -1,4 +1,4 @@
-﻿# Quản Lý Thiết Kế
+# Quản Lý Thiết Kế
 
 > **Mã SOP:** SOP-04-003
 > **Phiên bản:** 1.0
@@ -81,9 +81,11 @@ AA là đầu mối theo dõi hàng ngày với ĐV TK. PM review định kỳ h
 | Ghi nhận yêu cầu bổ sung từ KH       | Thông báo PM khi phát sinh vượt phạm vi|
 | Kiểm tra sơ bộ bản vẽ trước khi trình| Escalation nếu ĐV TK không đạt         |
 
-### 3.5 Kiểm Tra Bản Vẽ (Checklist)
+### 3.5 Kiểm Tra Bản Vẽ & Bóc Tách Xung Đột
 
-PM + AA kiểm tra bản vẽ theo các tiêu chí sau:
+Do AA là nhân sự có thâm niên (≈ 5 năm kinh nghiệm), **AA chịu trách nhiệm trực tiếp bóc tách hồ sơ, soát xét chéo (cross-check)** để phát hiện mọi xung đột kỹ thuật giữa các bộ môn (Kiến trúc, Kết cấu, MEP, Nội thất). **PM là người kiểm duyệt và đưa ra quyết định cuối cùng.**
+
+Các tiêu chí kiểm tra bao gồm:
 
 **Về nội dung:**
 - [ ] Đúng số tầng, diện tích, công năng theo brief
